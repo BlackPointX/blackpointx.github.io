@@ -55,7 +55,7 @@
   },
   {
     "id": 104,
-    "stan": 0,
+    "stan": 5,
     "name": "Pikachu Zekrom",
     "description": "Super karta",
     "price": 60,
@@ -73,7 +73,7 @@
   },
   {
     "id": 105,
-    "stan": 0,
+    "stan": 5,
     "name": "Poliwhirl",
     "description": "Super karta",
     "price": 60,
@@ -151,7 +151,7 @@
   },
   {
     "id": 110,
-    "stan": 0,
+    "stan": 5,
     "name": "Special Delivery Pikachu",
     "description": "Placeholder",
     "price": 60,
