@@ -1,5 +1,5 @@
 
-name: Update Data.json on gh-pages
+name: Update Data Only
 
 on:
   schedule:
@@ -12,42 +12,39 @@ permissions:
   contents: write
 
 jobs:
-  update-live-data:
+  update-json:
     runs-on: ubuntu-latest
     steps:
-      # 1. Pobieramy kod źródłowy z MAIN (żeby mieć dostęp do skryptów generujących)
-      - name: Checkout Source (main)
+      - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: main # Jawnie wskazujemy main
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
-      - name: Install Dependencies
-        run: npm ci
+      # Instalacja nie jest konieczna, jeśli fetch-products używa tylko wbudowanych modułów Node 20 (fs, path, fetch).
+      # Jeśli dodasz biblioteki zewnętrzne, odkomentuj linię z npm install.
+      # - name: Install Dependencies
+      #   run: npm install
 
-      # 2. Uruchamiamy skrypt, który tworzy plik public/data.json
-      - name: Fetch Latest Products Data
-        run: npm run update-data
+      - name: Run Fetch Script
+        run: node scripts/fetch-products.js
 
-      # 3. Przygotowujemy folder do wysyłki
-      # Tworzymy czysty folder i kopiujemy tam TYLKO wygenerowany data.json
-      - name: Prepare Deployment Payload
+      - name: Commit and Push Data
         run: |
-          mkdir deploy_payload
-          cp public/data.json deploy_payload/data.json
-
-      # 4. Wysyłamy TYLKO ten plik na branch gh-pages
-      # Opcja keep_files: true jest KLUCZOWA - sprawia, że reszta strony nie znika!
-      - name: Deploy JSON to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./deploy_payload
-          publish_branch: gh-pages
-          keep_files: true 
-          commit_message: "🤖 Data Update: data.json (Live)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Dodajemy data.json, który leży teraz w głównym katalogu (root)
+          git add data.json
+          
+          if git diff --staged --quiet; then
+            echo "✅ Brak zmian w cenach/stanach."
+          else
+            git commit -m "🤖 Auto-update: data.json"
+            git push origin main
+            echo "🚀 Zaktualizowano data.json na main"
+          fi
