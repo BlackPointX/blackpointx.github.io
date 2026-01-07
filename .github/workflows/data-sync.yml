@@ -1,22 +1,25 @@
-name: Sync Data & Deploy
+
+name: Update Data.json on gh-pages
 
 on:
   schedule:
-    - cron: '0 * * * *' # Uruchamiaj co godzinę
-  workflow_dispatch: # Pozwala na ręczne uruchomienie przyciskiem w GitHub
-  repository_dispatch: # Pozwala na uruchomienie przez webhook z Google Apps Script
+    - cron: '0 * * * *' # Co godzinę
+  workflow_dispatch: # Ręcznie
+  repository_dispatch: # Z Google Apps Script
     types: [update_products]
 
 permissions:
   contents: write
 
 jobs:
-  build-and-deploy:
+  update-live-data:
     runs-on: ubuntu-latest
-    concurrency: ci-${{ github.ref }} # Zapobiega konfliktom przy szybkich aktualizacjach
     steps:
-      - name: Checkout code
+      # 1. Pobieramy kod źródłowy z MAIN (żeby mieć dostęp do skryptów generujących)
+      - name: Checkout Source (main)
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -27,22 +30,24 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      # 2. Uruchamiamy skrypt, który tworzy plik public/data.json
       - name: Fetch Latest Products Data
         run: npm run update-data
 
-      - name: Commit Data to Main (Backup)
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🤖 Auto-update: Product Data (data.json)"
-          file_pattern: "public/data.json"
-          skip_dirty_check: false    
+      # 3. Przygotowujemy folder do wysyłki
+      # Tworzymy czysty folder i kopiujemy tam TYLKO wygenerowany data.json
+      - name: Prepare Deployment Payload
+        run: |
+          mkdir deploy_payload
+          cp public/data.json deploy_payload/data.json
 
-      - name: Build Project
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
+      # 4. Wysyłamy TYLKO ten plik na branch gh-pages
+      # Opcja keep_files: true jest KLUCZOWA - sprawia, że reszta strony nie znika!
+      - name: Deploy JSON to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          force_orphan: true # Czysty deploy za każdym razem
+          publish_dir: ./deploy_payload
+          publish_branch: gh-pages
+          keep_files: true 
+          commit_message: "🤖 Data Update: data.json (Live)"
