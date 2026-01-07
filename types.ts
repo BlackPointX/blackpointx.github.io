@@ -1,27 +1,50 @@
 
 export interface Product {
-  id: string;
+  id: string; // Unikalne ID w aplikacji (np. "5_mewtwo-ex")
+  sheetId?: string; // Oryginalne ID z arkusza (np. "5")
   name: string;
   description: string;
   price: number;
   images: string[];
-  type: 'Fire' | 'Water' | 'Grass' | 'Electric' | 'Psychic' | 'Dark' | 'Dragon' | 'Fairy' | 'Normal' | 'Custom' | string;
-  rarity: 'Common' | 'Rare' | 'Legendary';
+  author: string; 
+  source: string; 
+  isAi: boolean;
+  stock: number; 
+  preorderDate?: string; 
+}
+
+export interface Move {
+  id: string;
+  type: 'attack' | 'ability';
+  name: string;
+  description: string;
+  damage: string;
+  cost: string[]; // Tablica typów energii np. ['Fire', 'Colorless']
 }
 
 export interface CustomCardData {
   cardType: 'pokemon' | 'trainer';
   name: string;
-  subject: string;
-  type: string;
-  hp?: string;
+  subject: string; 
+  
+  // Nowe pola z gry
+  set: string;     
+  subtype: string; 
+  type: string;    
+  hp: string;
+  
+  moves: Move[];   
+  
+  // Pola opcjonalne/dodatkowe
   trainerSubtype?: string;
-  referenceLink?: string;
-  cardNumber?: string;
-  attacks?: string;
   flavorText?: string;
+  illustrator?: string;
+  
+  // Dane kontaktowe i pliki
   email?: string;
-  userImage?: boolean; // simple flag if they clicked upload
+  images?: string[]; 
+  imageUrl?: string;
+  referenceLink?: string;
 }
 
 export interface CartItem extends Product {
@@ -32,10 +55,11 @@ export interface CartItem extends Product {
 export interface UserData {
   fullName: string;
   email: string;
-  address: string;
-  city: string;
-  zipCode: string;
   phone: string;
+  paczkomatCode: string;
+  paczkomatAddress: string;
+  discountCode?: string;
+  discountValue?: number;
 }
 
-export type AppScreen = 'shop' | 'checkout' | 'success' | 'custom-order' | 'about';
+export type AppScreen = 'shop' | 'checkout' | 'success' | 'custom-order' | 'about' | 'status' | 'gallery' | 'terms' | 'privacy';

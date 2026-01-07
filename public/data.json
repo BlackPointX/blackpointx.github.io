@@ -1,0 +1,532 @@
+[
+  {
+    "id": 101,
+    "stan": 5,
+    "name": "Gengar",
+    "description": "Super karta",
+    "price": 60,
+    "type": "Dark",
+    "rarity": "Xmas",
+    "ai": "nie",
+    "img1": "/images/Gengar_1.jpg",
+    "img2": "/images/Gengar_2.jpg",
+    "img3": "/images/Gengar_3.jpg",
+    "images": [
+      "/images/Gengar_1.jpg",
+      "/images/Gengar_2.jpg",
+      "/images/Gengar_3.jpg"
+    ]
+  },
+  {
+    "id": 102,
+    "stan": 5,
+    "name": "Rayquaza",
+    "description": "Super karta",
+    "price": 60,
+    "type": "Dragon",
+    "rarity": "Xmas",
+    "ai": "nie",
+    "img1": "/images/Rayquaza_1.jpg",
+    "img2": "/images/Rayquaza_2.jpg",
+    "img3": "/images/Rayquaza_3.jpg",
+    "images": [
+      "/images/Rayquaza_1.jpg",
+      "/images/Rayquaza_2.jpg",
+      "/images/Rayquaza_3.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "stan": 5,
+    "name": "Umbreon",
+    "description": "Super karta",
+    "price": 60,
+    "type": "Dark",
+    "rarity": "Xmas",
+    "ai": "nie",
+    "img1": "/images/Moonbreon_1.jpg",
+    "img2": "/images/Moonbreon_2.jpg",
+    "img3": "/images/Moonbreon_3.jpg",
+    "images": [
+      "/images/Moonbreon_1.jpg",
+      "/images/Moonbreon_2.jpg",
+      "/images/Moonbreon_3.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "stan": 5,
+    "name": "Pikachu Zekrom",
+    "description": "Super karta",
+    "price": 60,
+    "type": "Electric",
+    "rarity": "Xmas",
+    "ai": "nie",
+    "img1": "/images/Pika_1.jpg",
+    "img2": "/images/Pika_2.jpg",
+    "img3": "/images/Pika_3.jpg",
+    "images": [
+      "/images/Pika_1.jpg",
+      "/images/Pika_2.jpg",
+      "/images/Pika_3.jpg"
+    ]
+  },
+  {
+    "id": 105,
+    "stan": 5,
+    "name": "Poliwhirl",
+    "description": "Super karta",
+    "price": 60,
+    "type": "Water",
+    "rarity": "Xmas",
+    "ai": "nie",
+    "img1": "/images/Poliwhirl_1.jpg",
+    "img2": "/images/Poliwhirl_2.jpg",
+    "img3": "/images/Poliwhirl_3.jpg",
+    "images": [
+      "/images/Poliwhirl_1.jpg",
+      "/images/Poliwhirl_2.jpg",
+      "/images/Poliwhirl_3.jpg"
+    ]
+  },
+  {
+    "id": 106,
+    "stan": 5,
+    "name": "Arbok",
+    "description": "Przedstawiam unikatową kartę kolekcjonerską z autorskim projektem, który przenosi Arboka w zupełnie nową scenerię. To nie jest zwykła karta – to miniaturowe dzieło sztuki dla prawdziwych fanów i kolekcjonerów nietypowych wydań.",
+    "price": 60,
+    "type": "Dark",
+    "rarity": "Custom art",
+    "ai": "nie",
+    "img1": "/images/Arbok_1.jpg",
+    "img2": "/images/Arbok_2.jpg",
+    "img3": "/images/Arbok_3.jpg",
+    "images": [
+      "/images/Arbok_1.jpg",
+      "/images/Arbok_2.jpg",
+      "/images/Arbok_3.jpg"
+    ]
+  },
+  {
+    "id": 107,
+    "stan": 5,
+    "name": "Bartek",
+    "description": "Somsiedzka karcioszka",
+    "price": 60,
+    "type": "Ziuber",
+    "rarity": "Custom art",
+    "ai": "tak",
+    "img1": "/images/--somsiad.png",
+    "images": [
+      "/images/--somsiad.png"
+    ]
+  },
+  {
+    "id": 108,
+    "stan": 5,
+    "name": "Geralt EX",
+    "description": "Karcioszka testowa",
+    "price": 60,
+    "type": "test",
+    "rarity": "custom qrt",
+    "ai": "tak",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 109,
+    "stan": 5,
+    "name": "Snorlax ",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 110,
+    "stan": 5,
+    "name": "Special Delivery Pikachu",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Special_delivery_1.png",
+    "img2": "/images/Special_delivery_2.png",
+    "img3": "/images/Special_delivery_3.png",
+    "images": [
+      "/images/Special_delivery_1.png",
+      "/images/Special_delivery_2.png",
+      "/images/Special_delivery_3.png"
+    ]
+  },
+  {
+    "id": 111,
+    "stan": 5,
+    "name": "Lucario VMAX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "custom",
+    "ai": "tak",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "stan": 5,
+    "name": "Charizard & Gengar & Pikachu GX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "custom",
+    "ai": "tak",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 113,
+    "stan": 5,
+    "name": "Togepi",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "custom",
+    "ai": "tak",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "stan": 5,
+    "name": "Gengar",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "stan": 5,
+    "name": "Squirtle EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Squirtle_Matrix_1.jpg",
+    "img2": "/images/Squirtle_Matrix_2.jpg",
+    "img3": "/images/Squirtle_Matrix_3.jpg",
+    "images": [
+      "/images/Squirtle_Matrix_1.jpg",
+      "/images/Squirtle_Matrix_2.jpg",
+      "/images/Squirtle_Matrix_3.jpg"
+    ]
+  },
+  {
+    "id": 116,
+    "stan": 5,
+    "name": "Heisenberg's Koffing",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "tak",
+    "img1": "/images/Heisenberg_1.png",
+    "img2": "/images/Heisenberg_2.png",
+    "images": [
+      "/images/Heisenberg_1.png",
+      "/images/Heisenberg_2.png"
+    ]
+  },
+  {
+    "id": 117,
+    "stan": 5,
+    "name": "Lugia EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "stan": 5,
+    "name": "Mega Gengar EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom collab",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "stan": 5,
+    "name": "Voltorb",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 120,
+    "stan": 5,
+    "name": "Espeon VMAX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/EspeonVMAX_1.jpg",
+    "img2": "/images/EspeonVMAX_2.jpg",
+    "images": [
+      "/images/EspeonVMAX_1.jpg",
+      "/images/EspeonVMAX_2.jpg"
+    ]
+  },
+  {
+    "id": 121,
+    "stan": 5,
+    "name": "Dragonite EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Dragonite_EX_1.jpg",
+    "img2": "/images/Dragonite_EX_2.jpg",
+    "img3": "/images/Dragonite_EX_3.jpg",
+    "images": [
+      "/images/Dragonite_EX_1.jpg",
+      "/images/Dragonite_EX_2.jpg",
+      "/images/Dragonite_EX_3.jpg"
+    ]
+  },
+  {
+    "id": 122,
+    "stan": 5,
+    "name": "Marill",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "PTCGP",
+    "ai": "nie",
+    "img1": "/images/Marill_1.png",
+    "img2": "/images/Marill_2.png",
+    "img3": "/images/Marill_3.png",
+    "images": [
+      "/images/Marill_1.png",
+      "/images/Marill_2.png",
+      "/images/Marill_3.png"
+    ]
+  },
+  {
+    "id": 123,
+    "stan": 5,
+    "name": "Alolan Marowak",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "!?",
+    "rarity": "PTCGP",
+    "ai": "nie",
+    "img1": "/images/Marowak_1.jpg",
+    "img2": "/images/Marowak_2.jpg",
+    "img3": "/images/Marowak_3.jpg",
+    "images": [
+      "/images/Marowak_1.jpg",
+      "/images/Marowak_2.jpg",
+      "/images/Marowak_3.jpg"
+    ]
+  },
+  {
+    "id": 124,
+    "stan": 5,
+    "name": "Espeon",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "PTCGP",
+    "ai": "nie",
+    "img1": "/images/test.jpg",
+    "images": [
+      "/images/test.jpg"
+    ]
+  },
+  {
+    "id": 125,
+    "stan": 5,
+    "name": "Giratina",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "PTCGP",
+    "ai": "nie",
+    "img1": "/images/Giratina_1.jpg",
+    "img2": "/images/Giratina_2.jpg",
+    "img3": "/images/Giratina_3.jpg",
+    "images": [
+      "/images/Giratina_1.jpg",
+      "/images/Giratina_2.jpg",
+      "/images/Giratina_3.jpg"
+    ]
+  },
+  {
+    "id": 126,
+    "stan": 5,
+    "name": "Charizard EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "PTCGP",
+    "ai": "nie",
+    "img1": "/images/Charizard_PTCGP_1.jpg",
+    "img2": "/images/Charizard_PTCGP_2.jpg",
+    "img3": "/images/Charizard_PTCGP_3.jpg",
+    "images": [
+      "/images/Charizard_PTCGP_1.jpg",
+      "/images/Charizard_PTCGP_2.jpg",
+      "/images/Charizard_PTCGP_3.jpg"
+    ]
+  },
+  {
+    "id": 127,
+    "stan": 5,
+    "name": "Eevee EX Tera",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "?",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Evee_EX_1.jpg",
+    "img2": "/images/Evee_EX_2.jpg",
+    "img3": "/images/Evee_EX_3.jpg",
+    "images": [
+      "/images/Evee_EX_1.jpg",
+      "/images/Evee_EX_2.jpg",
+      "/images/Evee_EX_3.jpg"
+    ]
+  },
+  {
+    "id": 128,
+    "stan": 5,
+    "name": "Ditto",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "Normal",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Ditto_1.jpg",
+    "img2": "/images/Ditto_2.jpg",
+    "img3": "/images/Ditto_3.jpg",
+    "images": [
+      "/images/Ditto_1.jpg",
+      "/images/Ditto_2.jpg",
+      "/images/Ditto_3.jpg"
+    ]
+  },
+  {
+    "id": 129,
+    "stan": 5,
+    "preorder": "2026-01-11T23:00:00.000Z",
+    "name": "Test preorder",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "Normal",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Evee_EX_1.jpg",
+    "images": [
+      "/images/Evee_EX_1.jpg"
+    ]
+  },
+  {
+    "id": 130,
+    "stan": 5,
+    "name": "Meowth EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "Normal",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Meowth_EX_1.jpg",
+    "img2": "/images/Meowth_EX_2.jpg",
+    "img3": "/images/Meowth_EX_3.jpg",
+    "img4": "/images/Meowth_EX_4.jpg",
+    "images": [
+      "/images/Meowth_EX_1.jpg",
+      "/images/Meowth_EX_2.jpg",
+      "/images/Meowth_EX_3.jpg",
+      "/images/Meowth_EX_4.jpg"
+    ]
+  },
+  {
+    "id": 131,
+    "stan": 0,
+    "preorder": "2026-01-14T23:00:00.000Z",
+    "name": "Mewtwo EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "Normal",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Mewtwo_EX_1.jpg",
+    "img2": "/images/Mewtwo_EX_2.jpg",
+    "img3": "/images/Mewtwo_EX_3.jpg",
+    "images": [
+      "/images/Mewtwo_EX_1.jpg",
+      "/images/Mewtwo_EX_2.jpg",
+      "/images/Mewtwo_EX_3.jpg"
+    ]
+  },
+  {
+    "id": 132,
+    "stan": 5,
+    "name": "Mewtwo EX",
+    "description": "Placeholder",
+    "price": 60,
+    "type": "Normal",
+    "rarity": "custom",
+    "ai": "nie",
+    "img1": "/images/Mewtwo_EX_A_1.jpg",
+    "img2": "/images/Mewtwo_EX_A_2.jpg",
+    "img3": "/images/Mewtwo_EX_A_3.jpg",
+    "img4": "/images/Mewtwo_EX_A_4.jpg",
+    "images": [
+      "/images/Mewtwo_EX_A_1.jpg",
+      "/images/Mewtwo_EX_A_2.jpg",
+      "/images/Mewtwo_EX_A_3.jpg",
+      "/images/Mewtwo_EX_A_4.jpg"
+    ]
+  }
+]

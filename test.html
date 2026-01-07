@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <style>
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+
+<button id="openBtn" disabled>ŁADOWANIE MAPY...</button>
+
+<script>
+  let isReady = false;
+
+  window.easyPackAsyncInit = function () {
+    easyPack.init({
+      apiKey: 'eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJzQlpXVzFNZzVlQnpDYU1XU3JvTlBjRWFveFpXcW9Ua2FuZVB3X291LWxvIn0.eyJleHAiOjIwODMwMDY4NTcsImlhdCI6MTc2NzY0Njg1NywianRpIjoiMjdjMTBhMDItYjMyYS00YjFhLThhYTUtYTVmMGQwNjQwZjgyIiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5pbnBvc3QucGwvYXV0aC9yZWFsbXMvZXh0ZXJuYWwiLCJzdWIiOiJmOjEyNDc1MDUxLTFjMDMtNGU1OS1iYTBjLTJiNDU2OTVlZjUzNTpMRi1qaFA2d0RobXc5S29oemZITlJoOU1GcTJEbUhGRF9kX3N0Rl9uOFFFIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoic2hpcHgiLCJzZXNzaW9uX3N0YXRlIjoiYWMwNTdhYzAtODljMy00ZTQzLTljYjMtOGI5OWY4YWY4YzgwIiwic2NvcGUiOiJvcGVuaWQgYXBpOmFwaXBvaW50cyIsInNpZCI6ImFjMDU3YWMwLTg5YzMtNGU0My05Y2IzLThiOTlmOGFmOGM4MCIsImFsbG93ZWRfcmVmZXJyZXJzIjoibWNwaXhhaS5wbCIsInV1aWQiOiJjOTc0MmEyOS1kOTE2LTQxNzItODgzOS1jNGYwMjgzMGI2YzYifQ.FwSLhevlFGj5zuGLv3EENtXfg_N8wu-5duqgmb-yhrS0eSljukTqTe7wILPXdBlL5Sn3501LS5ajecYGHo4UY7OWMS7s7BrAzr17xeAjUDYHlKHpsDSxzsp1B1C-FRpZlXwL2rLXi6Kyu-e-zQg5p6G3VAty86UrIqeueI2t6ewq0q57GnBtS0T9uQJ6roJp3Ym8rK1tKzEWGh-qvctKzyYS4SlAdvw9FGvGScMnZDVWH18nyq4eRkti3IMycGeqVm1_zafi6rNNOmeH2XLvTntBkVH9j0oY9RKrQ0PjQ2d3TAYRCuAQqNNbDbDt_f6yrOQW22mdyKiAN9TfSkDxQQ',
+      mapType: 'osm',
+      searchType: 'osm',
+      defaultLocale: 'pl'
+    });
+
+    isReady = true;
+
+    const btn = document.getElementById('openBtn');
+    btn.disabled = false;
+    btn.textContent = 'OTWÓRZ MAPĘ';
+  };
+
+  document.getElementById('openBtn').addEventListener('click', () => {
+    if (!isReady) return;
+
+    easyPack.openMapWidget({}, function (point) {
+      console.log('WYBRANO:', point);
+    });
+  });
+</script>
+
+<script src="https://geowidget.inpost.pl/inpost-geowidget.js"></script>
+
+</body>
+</html>
