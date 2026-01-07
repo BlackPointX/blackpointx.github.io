@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "stan": 5,
+    "stan": 0,
     "name": "Gengar",
     "description": "Super karta",
     "price": 60,
@@ -93,7 +93,7 @@
     "id": 106,
     "stan": 5,
     "name": "Arbok",
-    "description": "Przedstawiam unikatową kartę kolekcjonerską z autorskim projektem, który przenosi Arboka w zupełnie nową scenerię. To nie jest zwykła karta – to miniaturowe dzieło sztuki dla prawdziwych fanów i kolekcjonerów nietypowych wydań.",
+    "description": "O Ilustracji: Arbok dumnie strzeże złotego skarbca, oplatając monety swoim potężnym ciałem. Kontrast ciepłego blasku z głębokim fioletem tworzy aurę tajemnicy i luksusu w mrocznej piwnicy. Obecność innych Pokémonów w tle podkreśla jego dominującą pozycję jako nieustępliwego strażnika. To mroczna, ale pełna przepychu scena, idealnie oddająca terytorialną naturę tego gatunku.\n\nInspiracje i Styl: Styl graficzny to nowoczesne malarstwo cyfrowe wykorzystujące technikę chiaroscuro. Estetyka nawiązuje do rzadkich kart typu Special Illustration Rare, kładąc nacisk na detale i filmowy klimat.",
     "price": 60,
     "type": "Dark",
     "rarity": "Custom art",
@@ -169,7 +169,7 @@
   },
   {
     "id": 111,
-    "stan": 5,
+    "stan": 0,
     "name": "Lucario VMAX",
     "description": "Placeholder",
     "price": 60,
@@ -197,7 +197,7 @@
   },
   {
     "id": 113,
-    "stan": 5,
+    "stan": 0,
     "name": "Togepi",
     "description": "Placeholder",
     "price": 60,
@@ -353,7 +353,7 @@
   },
   {
     "id": 123,
-    "stan": 5,
+    "stan": 0,
     "name": "Alolan Marowak",
     "description": "Placeholder",
     "price": 60,
