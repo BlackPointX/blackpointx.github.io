@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "stan": 0,
+    "stan": 5,
     "name": "Gengar",
     "description": "Super karta",
     "price": 60,
@@ -55,7 +55,7 @@
   },
   {
     "id": 104,
-    "stan": 0,
+    "stan": 5,
     "name": "Pikachu Zekrom",
     "description": "Super karta",
     "price": 60,
@@ -73,7 +73,7 @@
   },
   {
     "id": 105,
-    "stan": 0,
+    "stan": 5,
     "name": "Poliwhirl",
     "description": "Super karta",
     "price": 60,
@@ -151,7 +151,7 @@
   },
   {
     "id": 110,
-    "stan": 0,
+    "stan": 5,
     "name": "Special Delivery Pikachu",
     "description": "Placeholder",
     "price": 60,
@@ -169,7 +169,7 @@
   },
   {
     "id": 111,
-    "stan": 5,
+    "stan": 0,
     "name": "Lucario VMAX",
     "description": "Placeholder",
     "price": 60,
@@ -197,7 +197,7 @@
   },
   {
     "id": 113,
-    "stan": 5,
+    "stan": 0,
     "name": "Togepi",
     "description": "Placeholder",
     "price": 60,
@@ -353,7 +353,7 @@
   },
   {
     "id": 123,
-    "stan": 5,
+    "stan": 0,
     "name": "Alolan Marowak",
     "description": "Placeholder",
     "price": 60,
