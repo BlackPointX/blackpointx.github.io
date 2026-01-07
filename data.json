@@ -130,9 +130,9 @@
     "type": "MCpixAI",
     "rarity": "What if",
     "ai": "tak",
-    "img1": "/images/test.jpg",
+    "img1": "/images/Geralt_1.jpg",
     "images": [
-      "/images/test.jpg"
+      "/images/Geralt_1.jpg"
     ]
   },
   {
@@ -144,9 +144,9 @@
     "type": "sowsow",
     "rarity": "Halloween",
     "ai": "nie",
-    "img1": "/images/test.jpg",
+    "img1": "/images/Snorlax_1.jpg",
     "images": [
-      "/images/test.jpg"
+      "/images/Snorlax_1.jpg"
     ]
   },
   {
@@ -176,9 +176,9 @@
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "tak",
-    "img1": "/images/test.jpg",
+    "img1": "/images/Lucario_1.jpg",
     "images": [
-      "/images/test.jpg"
+      "/images/Lucario_1.jpg"
     ]
   },
   {
@@ -526,6 +526,23 @@
       "/images/Mewtwo_EX_A_2.jpg",
       "/images/Mewtwo_EX_A_3.jpg",
       "/images/Mewtwo_EX_A_4.jpg"
+    ]
+  },
+  {
+    "id": 133,
+    "stan": 5,
+    "name": "Gengar & Haunter & Gastly GX",
+    "price": 60,
+    "type": "Catnapz.art",
+    "rarity": "custom collab",
+    "ai": "nie",
+    "img1": "/images/TagTeam_GHG_1.jpg",
+    "img2": "/images/TagTeam_GHG_2.jpg",
+    "img3": "/images/TagTeam_GHG_3.jpg",
+    "images": [
+      "/images/TagTeam_GHG_1.jpg",
+      "/images/TagTeam_GHG_2.jpg",
+      "/images/TagTeam_GHG_3.jpg"
     ]
   }
 ]
