@@ -3,7 +3,7 @@ name: Update Data Only
 
 on:
   schedule:
-    - cron: '0 * * * *' # Co godzinę
+    - cron: '*/30 * * * *' # ZMIANA: Co 30 minut (np. 14:00, 14:30, 15:00)
   workflow_dispatch: # Ręcznie
   repository_dispatch: # Z Google Apps Script
     types: [update_products]
