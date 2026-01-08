@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "stan": 5,
+    "stan": 4,
     "name": "Gengar",
     "description": "Gengar VMAX z serii XMAS to 1 z 5 kart wchodzących w skład limitowanego zestawu świątecznego, stanowiąca mistrzowski repaint kultowej grafiki \"Alternate Art\" tego Pokémona. Ta unikalna customizacja kreatywnie przekształca oryginalną, mroczną scenę, gdzie Gigantamax Gengar pochłania wszystko na swojej drodze, w radosny, zimowy krajobraz, w którym jego przepastna paszcza staje się magicznym tunelem wyrzucającym prezenty, choinki i piernikowe ludziki. Dodanie czapki Mikołaja oraz ośnieżonej wioski w tle genialnie reinterpretuje psotną naturę Gengara, który w tym wydaniu staje się nietypowym duchem świąt płatającym radosne figle. Całość wykonana jest w stylu profesjonalnej alteracji, która zachowuje dynamikę i skalę pierwowzoru, jednocześnie całkowicie zmieniając jego nastrój poprzez bogatą, ciepłą kolorystykę i liczne detale bożonarodzeniowe.",
     "price": 60,
@@ -123,7 +123,7 @@
   },
   {
     "id": 108,
-    "stan": 5,
+    "stan": 4,
     "name": "Geralt EX",
     "description": "Geralt ex z serii Witcher x Pokémon Crossover to unikatowy egzemplarz o numeracji 001/001, stanowiący jedyne w swoim rodzaju, kolekcjonerskie połączenie dwóch epickich uniwersów. Scena ukazuje legendarnego Białego Wilka przygotowanego do starcia z Tentacrulem pośród mrocznych, bagiennych wód, co w genialny sposób nawiązuje do fachu Wiedźmina jako profesjonalnego łowcy potworów. Dynamika ilustracji skupia się na Geralcie dzierżącym srebrny miecz, gotowym do wyprowadzenia ataku „Silver Strike” lub użycia znaku „Aard”, podczas gdy jaskrawa kolorystyka i efektowne, tęczowe refleksy nadają starciu niemal nadprzyrodzonego blasku. Kompozycja zachwyca szczegółowością tła usianego liliami wodnymi oraz kontrastem między surową sylwetką bohatera a organicznym kształtem Pokémona, czerpiąc inspirację z najbardziej prestiżowych wydań typu Special Illustration Rare. Ta artystyczna fuzja jest hołdem dla stylu dark fantasy przeniesionego na grunt nowoczesnego TCG, tworząc niepowtarzalny artefakt, który zaciera granice między światami gier.",
     "price": 60,
@@ -211,7 +211,7 @@
   },
   {
     "id": 114,
-    "stan": 5,
+    "stan": 0,
     "name": "Gengar",
     "description": "Gengar z serii Halloween to 2 karta z tej wyjątkowej, mrocznej kolekcji, która w mistrzowski sposób ukazuje złośliwą naturę najpopularniejszego ducha świata Pokémon. Ilustracja przedstawia Gengara wyłaniającego się z neonowej, wielobarwnej mgły pośród mrocznego cmentarza, co stanowi bezpośrednie nawiązanie do jego zdolności ukrywania się w cieniu i straszenia niczego nieświadomych wędrowców. Dynamiczna kompozycja pełna detali, takich jak nietoperze, pajęczyny i nagrobki, w połączeniu z intensywną paletą fioletów i zieleni, buduje aurę halloweenowej tajemnicy, idealnie współgrając z atakami takimi jak „Grave Whisper” czy „Trick or Treat”. Styl graficzny karty to odważne połączenie nowoczesnego Full Artu z estetyką barwnego, halloweenowego horroru, co nadaje całości unikatowy charakter inspirowany najbardziej ekspresyjnymi wydaniami typu Illustration Rare.",
     "price": 60,
@@ -273,7 +273,7 @@
   },
   {
     "id": 118,
-    "stan": 5,
+    "stan": 4,
     "name": "Mega Gengar EX",
     "description": "Mega Gengar ex autorstwa Nicola Moro to unikatowa karta kolekcjonerska oznaczona numerem 072, stanowiąca mroczne i majestatyczne wyobrażenie jednej z najpotężniejszych megaewolucji. Ilustracja ukazuje Mega Gengara dominującego nad monumentalnymi schodami nawiedzonej rezydencji, co idealnie oddaje jego naturę jako władcy cieni i istotę potrafiącą swobodnie przemieszczać się między wymiarami. Centralnym punktem kompozycji jest jego złowieszcze trzecie oko, które według lore pozwala mu dostrzegać lęki przeciwników, podczas gdy z dołu kadru wyłaniają się widmowe dłonie i opary energii, podkreślające działanie unikalnej umiejętności „Shadow hiding”. Intensywna, fioletowo-różowa kolorystyka w połączeniu z dopracowaną, gotycką architekturą tła buduje atmosferę luksusowego horroru, nawiązując do najbardziej prestiżowych wydań typu Special Illustration Rare. Styl Nicola Moro wyróżnia się tu niesamowitą głębią i teatralnym ujęciem perspektywy, co czyni tę kartę spektakularnym przykładem nowoczesnego fan-artu, który z wielkim szacunkiem reinterpretuje niszczycielską potęgę typu duchowego.",
     "price": 60,
@@ -457,7 +457,7 @@
   },
   {
     "id": 129,
-    "stan": 5,
+    "stan": 0,
     "preorder": "2026-02-01T23:00:00.000Z",
     "name": "Gyarados VMAX",
     "description": "Placeholder",
