@@ -4,7 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // URL do Twojego Google Apps Script
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwFQPNUYwNkCtAuskHJhSkyGvEQ7R_J_spT08J_PMux4mUQIrU29JiQkfq09s2TaIawyA/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxiuzeFB0HElbb9YkEi80GAmy-DQilDCXpUXoKfxUruNuhHp7voI9O5l7phlSmsEUMseA/exec";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
