@@ -465,9 +465,9 @@
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "nie",
-    "img1": "/images/Gyarados_VMAX.jpg",
+    "img1": "/images/Gyarados_VMAX.jpg&v=1",
     "images": [
-      "/images/Gyarados_VMAX.jpg"
+      "/images/Gyarados_VMAX.jpg&v=1"
     ]
   },
   {
