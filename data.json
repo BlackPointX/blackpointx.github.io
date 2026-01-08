@@ -123,7 +123,7 @@
   },
   {
     "id": 108,
-    "stan": 5,
+    "stan": 0,
     "name": "Geralt EX",
     "description": "Geralt ex z serii Witcher x Pokémon Crossover to unikatowy egzemplarz o numeracji 001/001, stanowiący jedyne w swoim rodzaju, kolekcjonerskie połączenie dwóch epickich uniwersów. Scena ukazuje legendarnego Białego Wilka przygotowanego do starcia z Tentacrulem pośród mrocznych, bagiennych wód, co w genialny sposób nawiązuje do fachu Wiedźmina jako profesjonalnego łowcy potworów. Dynamika ilustracji skupia się na Geralcie dzierżącym srebrny miecz, gotowym do wyprowadzenia ataku „Silver Strike” lub użycia znaku „Aard”, podczas gdy jaskrawa kolorystyka i efektowne, tęczowe refleksy nadają starciu niemal nadprzyrodzonego blasku. Kompozycja zachwyca szczegółowością tła usianego liliami wodnymi oraz kontrastem między surową sylwetką bohatera a organicznym kształtem Pokémona, czerpiąc inspirację z najbardziej prestiżowych wydań typu Special Illustration Rare. Ta artystyczna fuzja jest hołdem dla stylu dark fantasy przeniesionego na grunt nowoczesnego TCG, tworząc niepowtarzalny artefakt, który zaciera granice między światami gier.",
     "price": 60,
@@ -137,7 +137,7 @@
   },
   {
     "id": 109,
-    "stan": 5,
+    "stan": 0,
     "name": "Snorlax ",
     "description": "Snorlax z serii Halloween autorstwa sowsow to inauguracyjna karta z tej mrocznej, a zarazem niezwykle klimatycznej kolekcji, oznaczona numerem 001. Ilustracja przedstawia ikonicznego Snorlaxa pogrążonego w głębokim „Pumpkin nap”, którego nie są w stanie dobudzić nawet towarzyszące mu duchy Gastly i Haunter czy Pikachu w uroczym, wiedźmińskim kapeluszu. Kompozycja zachwyca dynamiczną grą cieni i nasyconą kolorystyką, gdzie głębokie granaty nocy kontrastują z ciepłym, pomarańczowym blaskiem halloweenowych dyń rozświetlających leśną gęstwinę. Całość idealnie oddaje naturę Snorlaxa, który według lore potrafi przespać absolutnie każdą przygodę, oraz unikalny styl artysty sowsow, charakteryzujący się miękką kreską i bajkowym podejściem do detali. Ta wyjątkowa praca typu Full Art umiejętnie łączy estetykę „spooky” z nostalgicznym urokiem, tworząc rzadki artefakt kolekcjonerski, który celebruje mroczniejszą stronę świata Pokémon w niezwykle estetycznym wydaniu.",
     "price": 60,
@@ -204,14 +204,14 @@
     "type": "MCpixAI",
     "rarity": "custom",
     "ai": "tak",
-    "img1": "/images/Cha_Gen_Pik_1.jpg",
+    "img1": "/images/Togepi_1.jpg",
     "images": [
-      "/images/Cha_Gen_Pik_1.jpg"
+      "/images/Togepi_1.jpg"
     ]
   },
   {
     "id": 114,
-    "stan": 5,
+    "stan": 0,
     "name": "Gengar",
     "description": "Gengar z serii Halloween to 2 karta z tej wyjątkowej, mrocznej kolekcji, która w mistrzowski sposób ukazuje złośliwą naturę najpopularniejszego ducha świata Pokémon. Ilustracja przedstawia Gengara wyłaniającego się z neonowej, wielobarwnej mgły pośród mrocznego cmentarza, co stanowi bezpośrednie nawiązanie do jego zdolności ukrywania się w cieniu i straszenia niczego nieświadomych wędrowców. Dynamiczna kompozycja pełna detali, takich jak nietoperze, pajęczyny i nagrobki, w połączeniu z intensywną paletą fioletów i zieleni, buduje aurę halloweenowej tajemnicy, idealnie współgrając z atakami takimi jak „Grave Whisper” czy „Trick or Treat”. Styl graficzny karty to odważne połączenie nowoczesnego Full Artu z estetyką barwnego, halloweenowego horroru, co nadaje całości unikatowy charakter inspirowany najbardziej ekspresyjnymi wydaniami typu Illustration Rare.",
     "price": 60,
@@ -457,7 +457,7 @@
   },
   {
     "id": 129,
-    "stan": 50,
+    "stan": 44,
     "preorder": "2026-01-11T23:00:00.000Z",
     "name": "Gyarados VMAX",
     "description": "Placeholder",
