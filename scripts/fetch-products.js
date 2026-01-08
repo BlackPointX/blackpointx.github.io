@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// URL do Twojego Google Apps Script
+// URL do Twojego Google Apps Script - ZAKTUALIZOWANY
 const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxiuzeFB0HElbb9YkEi80GAmy-DQilDCXpUXoKfxUruNuhHp7voI9O5l7phlSmsEUMseA/exec";
 
 const __filename = fileURLToPath(import.meta.url);
