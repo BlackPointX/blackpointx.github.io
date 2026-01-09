@@ -548,5 +548,37 @@
       "/images/TagTeam_GHG_2.jpg",
       "/images/TagTeam_GHG_3.jpg"
     ]
+  },
+  {
+    "id": 134,
+    "stan": 5,
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Vader's Zekrom",
+    "description": "Zekrom & Darth Vader to monumentalna karta typu crossover, która łączy legendarnego Pokémona Ideałów z ikoną ciemnej strony mocy w jednej, mrocznej wizji. Ilustracja ukazuje potężną synergię między Zekromem, znanym z generowania niszczycielskich wyładowań elektrycznych ze swojego ogona-generatora, a Lordem Vaderem, którego czerwony miecz świetlny stanowi jedyny jaskrawy akcent w tej surowej, niemal monochromatycznej kompozycji. Dynamika sceny, podkreślona przez błękitne błyskawice rozdzierające niebo, idealnie oddaje majestat i bezwzględną siłę obu postaci, co stanowi bezpośrednie nawiązanie do ich wspólnej cechy – dążenia do realizacji surowych ideałów za wszelką cenę. Styl artystyczny nawiązuje do mrocznego koncept-artu i estetyki współczesnych komiksów sci-fi, wykorzystując ostre kontury oraz filmowe oświetlenie typu chiaroscuro, aby nadać całości epickiego, niemal kinowego charakteru.",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "What if",
+    "ai": "nie",
+    "img1": "/images/vader.png",
+    "reveal": 20,
+    "images": [
+      "/images/vader.png"
+    ]
+  },
+  {
+    "id": 135,
+    "stan": 5,
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Joker's Mimikyu",
+    "description": "Mimikyu VMAX & Joker to mroczna i hipnotyzująca karta typu crossover, która łączy najbardziej tajemniczego Pokémona regionu Alola z legendarnym Księciem Zbrodni w jednej, przerażającej wizji. Ilustracja przedstawia Mimikyu w jego gigantycznej formie Dynamax, którego upiorne, cieniiste szpony i przeszywające, puste spojrzenie idealnie współgrają z maniakalnym uśmiechem Jokera, tworząc atmosferę niepohamowanego chaosu i grozy. Kolorystyka zdominowana przez toksyczną zieleń oraz głębokie fiolety podkreśla nadnaturalną energię bijącą od tej dwójki, nawiązując jednocześnie do tragicznej natury Mimikyu, który pod swoją szmacianą maską skrywa mrok zdolny obezwładnić każdego, kto odważy się go podejrzeć. Dynamiczna kompozycja z wirującymi wyładowaniami energii i lewitującymi odłamkami oddaje niszczycielską skalę mocy VMAX, przekształcając dziecięce pragnienie akceptacji Mimikyu w potężną broń psychologiczną. Styl artystyczny karty stanowi unikalne połączenie estetyki nowoczesnych, pełnoilustrowanych kart TCG z mrocznym, komiksowym ekspresjonizmem, co nadaje całości wyjątkowego, kolekcjonerskiego charakteru.",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "What if",
+    "ai": "nie",
+    "img1": "/images/joker.png",
+    "reveal": 20,
+    "images": [
+      "/images/joker.png"
+    ]
   }
 ]
