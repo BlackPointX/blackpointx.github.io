@@ -110,15 +110,17 @@
   {
     "id": 107,
     "stan": 5,
-    "name": "Bartek",
-    "description": "Somsiedzka karcioszka",
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Squirtle Squad",
+    "description": "Squirtle Squad to unikalna karta stanowiąca serce limitowanego zestawu poświęconego najbardziej ikonicznym grupom w historii Pokémon. Ilustracja emanuje niesamowitą energią i humorem, uwieczniając legendarny gang w ich charakterystycznych, ciemnych okularach podczas beztroskiego popołudnia wypełnionego jedzeniem pizzy i wodnymi psotami, co doskonale oddaje ich zadziorny charakter znany z klasycznej serii anime. Dynamiczna kompozycja i nasycona, błękitna kolorystyka tła podkreślają radosną naturę tych wodnych stworków, ukazując jednocześnie ich silną więź i lojalność wobec własnej grupy. Styl artystyczny karty czerpie garściami z nowoczesnego pop-artu oraz estetyki sticker-bomb, wykorzystując czyste linie i żywe barwy, aby stworzyć dzieło nawiązujące do kultury miejskiej i nostalgii lat 90.",
     "price": 60,
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "tak",
-    "img1": "/images/--somsiad.png",
+    "img1": "/images/squirtle_squad_1.jpg",
+    "reveal": 40,
     "images": [
-      "/images/--somsiad.png"
+      "/images/squirtle_squad_1.jpg"
     ]
   },
   {
@@ -460,7 +462,7 @@
     "stan": 5,
     "preorder": "2026-02-01T23:00:00.000Z",
     "name": "Gyarados VMAX",
-    "description": "Placeholder",
+    "description": "Gyarados VMAX to wyjątkowa karta ukazująca potężnego Gyaradosa w zaskakującej, niemal onirycznej scenie, będącej sercem tej limitowanej kolekcji artystycznej. Ilustracja w genialny sposób przełamuje klasyczny wizerunek tego Pokémona jako symbolu nieokiełznanego gniewu, przedstawiając go w obramowaniu eleganckich, teatralnych kotar, z których wyłania się feeria barw, leśnych owoców i morskich stworzeń. Kontrast między groźną aparycją Gyaradosa a delikatnością wirujących jagód i pastelowym, gwieździstym tłem tworzy unikalną narrację o harmonii potęgi z naturą, co stanowi ciekawe nawiązanie do ewolucji z bezbronnego Magikarpa w mitycznego smoka. Kompozycja czerpie inspirację z estetyki klasycznego teatru oraz malarstwa impresjonistycznego, łącząc tradycyjne motywy japońskie z nowoczesnym, bajkowym stylem, co nadaje całości niespotykanej głębi i szlachetności.",
     "price": 60,
     "type": "MCpixAI",
     "rarity": "custom art",
@@ -533,6 +535,7 @@
     "id": 133,
     "stan": 5,
     "name": "Gengar & Haunter & Gastly GX",
+    "description": "Gengar, Haunter & Gastly to spektakularna karta typu Tag Team, która jednoczy całą linię ewolucyjną najbardziej ikonicznych duchów z regionu Kanto w jednej, spójnej kompozycji. Ilustracja w genialny sposób oddaje psotną i mroczną naturę tych Pokémonów, skupiając wzrok na hipnotyzującym uśmiechu Gengara oraz przenikliwych spojrzeniach Gastly'ego i Hauntera, co idealnie nawiązuje do ich zdolności manipulowania snami i ukrywania się w najgłębszych ciemnościach. Zastosowana paleta barw, zdominowana przez nasycone fiolety i kontrastujące, geometryczne refleksy tła, podkreśla nadnaturalną energię bijącą od tej trójki, sugerując potęgę ich wspólnego ataku Nightmare GX. Styl artystyczny karty czerpie bezpośrednią inspirację z estetyki witrażowej i nowoczesnej mozaiki, gdzie ostre, kanciaste podziały nadają całości unikalną teksturę i niemal trójwymiarową głębię.",
     "price": 60,
     "type": "Catnapz.art",
     "rarity": "custom collab",
