@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "stan": 5,
+    "stan": 4,
     "name": "Gengar",
     "description": "Gengar VMAX z serii XMAS to 1 z 5 kart wchodzących w skład limitowanego zestawu świątecznego, stanowiąca mistrzowski repaint kultowej grafiki \"Alternate Art\" tego Pokémona. Ta unikalna customizacja kreatywnie przekształca oryginalną, mroczną scenę, gdzie Gigantamax Gengar pochłania wszystko na swojej drodze, w radosny, zimowy krajobraz, w którym jego przepastna paszcza staje się magicznym tunelem wyrzucającym prezenty, choinki i piernikowe ludziki. Dodanie czapki Mikołaja oraz ośnieżonej wioski w tle genialnie reinterpretuje psotną naturę Gengara, który w tym wydaniu staje się nietypowym duchem świąt płatającym radosne figle. Całość wykonana jest w stylu profesjonalnej alteracji, która zachowuje dynamikę i skalę pierwowzoru, jednocześnie całkowicie zmieniając jego nastrój poprzez bogatą, ciepłą kolorystykę i liczne detale bożonarodzeniowe.",
     "price": 60,
@@ -245,7 +245,7 @@
   },
   {
     "id": 116,
-    "stan": 4,
+    "stan": 3,
     "name": "Heisenberg's Koffing",
     "description": "Heisenberg's Koffing z serii What If: Breaking Bad x Pokémon to unikatowy egzemplarz o numeracji 001/001, stanowiący odważne i prowokujące połączenie świata kieszonkowych stworków z kultowym serialowym uniwersum. Ilustracja przedstawia Waltera White’a w jego ikonicznym żółtym kombinezonie ochronnym, któremu towarzyszy Koffing – Pokémon idealnie pasujący do toksycznej i chemicznej natury podziemnego laboratorium ze względu na swoją naturalną zdolność do produkcji i bytowania w oparach trujących gazów. Scena nasycona jest jaskrawą, wręcz neonową zielenią, która w połączeniu z precyzyjnymi detalami aparatury laboratoryjnej podkreśla merytoryczną spójność zdolności „Crystal Cook” z naturą obu postaci, tworząc mroczny, a zarazem fascynujący klimat. Styl artystyczny tej karty typu Full Art mistrzowsko balansuje między surowym klimatem dramatu kryminalnego a estetyką klasycznego TCG, tworząc unikatowy most między dwiema legendarnymi markami popkultury.\\",
     "price": 60,
@@ -495,7 +495,7 @@
   },
   {
     "id": 131,
-    "stan": 7,
+    "stan": 6,
     "name": "Mewtwo EX",
     "description": "Mewtwo ex autorstwa Devin Elle Kurtz to zachwycająca karta kolekcjonerska o numeracji 027/025, stanowiąca głęboko poruszającą interpretację genezy najpotężniejszego Pokémona na świecie. Ilustracja w mistrzowski sposób ukazuje moment uwięzienia Mewtwo w sterylnym, laboratoryjnym zbiorniku, z licznymi przewodami podłączonymi do jego ciała, co stanowi bezpośrednie nawiązanie do tragicznego lore związanego z eksperymentami na Wyspie New Island. Na pierwszym planie widoczna jest filigranowa, świecąca na różowo sylwetka Mew, która z ciekawością i smutkiem spogląda na swój genetyczny klon, co buduje niesamowite napięcie emocjonalne i podkreśla kontrast między pierwotną czystością a technologicznym cierpieniem. Jako karta typu ex z potężnym 330 HP, dysponuje atakami takimi jak „Mind Sync”, zadającym potężne obrażenia przy odpowiednim wsparciu energii, oraz „Mindstorm Break”, który pozwala na manipulację kartami Stadium, co w połączeniu z oniryczną, kinową kolorystyką tworzy prawdziwe dzieło sztuki typu Special Illustration Rare.",
     "price": 60,
