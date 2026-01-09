@@ -110,15 +110,17 @@
   {
     "id": 107,
     "stan": 5,
-    "name": "Bartek",
-    "description": "Somsiedzka karcioszka",
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Squirtle Squad",
+    "description": "Squirtle Squad to unikalna karta stanowiąca serce limitowanego zestawu poświęconego najbardziej ikonicznym grupom w historii Pokémon. Ilustracja emanuje niesamowitą energią i humorem, uwieczniając legendarny gang w ich charakterystycznych, ciemnych okularach podczas beztroskiego popołudnia wypełnionego jedzeniem pizzy i wodnymi psotami, co doskonale oddaje ich zadziorny charakter znany z klasycznej serii anime. Dynamiczna kompozycja i nasycona, błękitna kolorystyka tła podkreślają radosną naturę tych wodnych stworków, ukazując jednocześnie ich silną więź i lojalność wobec własnej grupy. Styl artystyczny karty czerpie garściami z nowoczesnego pop-artu oraz estetyki sticker-bomb, wykorzystując czyste linie i żywe barwy, aby stworzyć dzieło nawiązujące do kultury miejskiej i nostalgii lat 90.",
     "price": 60,
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "tak",
-    "img1": "/images/--somsiad.png",
+    "img1": "/images/squirtle_squad_1.jpg",
+    "reveal": 40,
     "images": [
-      "/images/--somsiad.png"
+      "/images/squirtle_squad_1.jpg"
     ]
   },
   {
@@ -460,7 +462,7 @@
     "stan": 5,
     "preorder": "2026-02-01T23:00:00.000Z",
     "name": "Gyarados VMAX",
-    "description": "Placeholder",
+    "description": "Gyarados VMAX to wyjątkowa karta ukazująca potężnego Gyaradosa w zaskakującej, niemal onirycznej scenie, będącej sercem tej limitowanej kolekcji artystycznej. Ilustracja w genialny sposób przełamuje klasyczny wizerunek tego Pokémona jako symbolu nieokiełznanego gniewu, przedstawiając go w obramowaniu eleganckich, teatralnych kotar, z których wyłania się feeria barw, leśnych owoców i morskich stworzeń. Kontrast między groźną aparycją Gyaradosa a delikatnością wirujących jagód i pastelowym, gwieździstym tłem tworzy unikalną narrację o harmonii potęgi z naturą, co stanowi ciekawe nawiązanie do ewolucji z bezbronnego Magikarpa w mitycznego smoka. Kompozycja czerpie inspirację z estetyki klasycznego teatru oraz malarstwa impresjonistycznego, łącząc tradycyjne motywy japońskie z nowoczesnym, bajkowym stylem, co nadaje całości niespotykanej głębi i szlachetności.",
     "price": 60,
     "type": "MCpixAI",
     "rarity": "custom art",
@@ -533,6 +535,7 @@
     "id": 133,
     "stan": 5,
     "name": "Gengar & Haunter & Gastly GX",
+    "description": "Gengar, Haunter & Gastly to spektakularna karta typu Tag Team, która jednoczy całą linię ewolucyjną najbardziej ikonicznych duchów z regionu Kanto w jednej, spójnej kompozycji. Ilustracja w genialny sposób oddaje psotną i mroczną naturę tych Pokémonów, skupiając wzrok na hipnotyzującym uśmiechu Gengara oraz przenikliwych spojrzeniach Gastly'ego i Hauntera, co idealnie nawiązuje do ich zdolności manipulowania snami i ukrywania się w najgłębszych ciemnościach. Zastosowana paleta barw, zdominowana przez nasycone fiolety i kontrastujące, geometryczne refleksy tła, podkreśla nadnaturalną energię bijącą od tej trójki, sugerując potęgę ich wspólnego ataku Nightmare GX. Styl artystyczny karty czerpie bezpośrednią inspirację z estetyki witrażowej i nowoczesnej mozaiki, gdzie ostre, kanciaste podziały nadają całości unikalną teksturę i niemal trójwymiarową głębię.",
     "price": 60,
     "type": "Catnapz.art",
     "rarity": "custom collab",
@@ -544,6 +547,38 @@
       "/images/TagTeam_GHG_1.jpg",
       "/images/TagTeam_GHG_2.jpg",
       "/images/TagTeam_GHG_3.jpg"
+    ]
+  },
+  {
+    "id": 134,
+    "stan": 5,
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Vader's Zekrom",
+    "description": "Zekrom & Darth Vader to monumentalna karta typu crossover, która łączy legendarnego Pokémona Ideałów z ikoną ciemnej strony mocy w jednej, mrocznej wizji. Ilustracja ukazuje potężną synergię między Zekromem, znanym z generowania niszczycielskich wyładowań elektrycznych ze swojego ogona-generatora, a Lordem Vaderem, którego czerwony miecz świetlny stanowi jedyny jaskrawy akcent w tej surowej, niemal monochromatycznej kompozycji. Dynamika sceny, podkreślona przez błękitne błyskawice rozdzierające niebo, idealnie oddaje majestat i bezwzględną siłę obu postaci, co stanowi bezpośrednie nawiązanie do ich wspólnej cechy – dążenia do realizacji surowych ideałów za wszelką cenę. Styl artystyczny nawiązuje do mrocznego koncept-artu i estetyki współczesnych komiksów sci-fi, wykorzystując ostre kontury oraz filmowe oświetlenie typu chiaroscuro, aby nadać całości epickiego, niemal kinowego charakteru.",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "What if",
+    "ai": "nie",
+    "img1": "/images/vader.png",
+    "reveal": 20,
+    "images": [
+      "/images/vader.png"
+    ]
+  },
+  {
+    "id": 135,
+    "stan": 5,
+    "preorder": "2026-02-01T23:00:00.000Z",
+    "name": "Joker's Mimikyu",
+    "description": "Mimikyu VMAX & Joker to mroczna i hipnotyzująca karta typu crossover, która łączy najbardziej tajemniczego Pokémona regionu Alola z legendarnym Księciem Zbrodni w jednej, przerażającej wizji. Ilustracja przedstawia Mimikyu w jego gigantycznej formie Dynamax, którego upiorne, cieniiste szpony i przeszywające, puste spojrzenie idealnie współgrają z maniakalnym uśmiechem Jokera, tworząc atmosferę niepohamowanego chaosu i grozy. Kolorystyka zdominowana przez toksyczną zieleń oraz głębokie fiolety podkreśla nadnaturalną energię bijącą od tej dwójki, nawiązując jednocześnie do tragicznej natury Mimikyu, który pod swoją szmacianą maską skrywa mrok zdolny obezwładnić każdego, kto odważy się go podejrzeć. Dynamiczna kompozycja z wirującymi wyładowaniami energii i lewitującymi odłamkami oddaje niszczycielską skalę mocy VMAX, przekształcając dziecięce pragnienie akceptacji Mimikyu w potężną broń psychologiczną. Styl artystyczny karty stanowi unikalne połączenie estetyki nowoczesnych, pełnoilustrowanych kart TCG z mrocznym, komiksowym ekspresjonizmem, co nadaje całości wyjątkowego, kolekcjonerskiego charakteru.",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "What if",
+    "ai": "nie",
+    "img1": "/images/joker.png",
+    "reveal": 20,
+    "images": [
+      "/images/joker.png"
     ]
   }
 ]
