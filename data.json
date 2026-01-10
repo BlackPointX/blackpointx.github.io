@@ -117,10 +117,10 @@
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "tak",
-    "img1": "/images/squirtle_squad_1.jpg",
+    "img1": "/images/squirtle_squad_2.jpg",
     "reveal": 40,
     "images": [
-      "/images/squirtle_squad_1.jpg"
+      "/images/squirtle_squad_2.jpg"
     ]
   },
   {
@@ -467,10 +467,10 @@
     "type": "MCpixAI",
     "rarity": "custom art",
     "ai": "nie",
-    "img1": "/images/Gyarados_VMAX_v1.jpg\n",
-    "reveal": 30,
+    "img1": "/images/Gyarados_VMAX_1.jpg\n",
+    "reveal": 40,
     "images": [
-      "/images/Gyarados_VMAX_v1.jpg\n"
+      "/images/Gyarados_VMAX_1.jpg\n"
     ]
   },
   {
