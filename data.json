@@ -118,7 +118,7 @@
     "rarity": "custom art",
     "ai": "nie",
     "img1": "/images/squirtle_squad_2.jpg",
-    "reveal": 40,
+    "reveal": 60,
     "images": [
       "/images/squirtle_squad_2.jpg"
     ]
@@ -468,7 +468,7 @@
     "rarity": "custom art",
     "ai": "nie",
     "img1": "/images/Gyarados_VMAX_1.jpg\n",
-    "reveal": 40,
+    "reveal": 60,
     "images": [
       "/images/Gyarados_VMAX_1.jpg\n"
     ]
