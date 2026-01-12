@@ -331,7 +331,6 @@
   {
     "id": 121,
     "stan": 11,
-    "special": "walentynki",
     "name": "Dragonite EX",
     "description": "Ilustracja emanuje spokojem i majestatem, ukazując Dragonite'a jako opiekuńczego lidera odpoczywającego na antycznych ruinach w towarzystwie swojej przedewolucyjnej rodziny – Dratini oraz Dragonair. Jasna, błękitna kolorystyka nieba idealnie współgra z potężną sylwetką tego Pokémona, który według legend potrafi okrążyć świat w zaledwie 16 godzin, a tutaj pełni rolę mitycznego \"Sky Guardian\" strzegącego spokoju sanktuarium. Kompozycja zachwyca malarskim detalem i głębią tła, nawiązując bezpośrednio do najbardziej prestiżowych kart typu Special Illustration Rare, które celebrują naturalne więzi między gatunkami. To dzieło sztuki łączy w sobie sentyment do pierwszej generacji z nowoczesnym, luksusowym stylem Full Art, podkreślając status Dragonite'a jako najpotężniejszego i najbardziej szlachetnego smoka z regionu Kanto.",
     "price": 60,
@@ -595,5 +594,16 @@
     "images": [
       "/images/joker.png"
     ]
+  },
+  {
+    "id": 136,
+    "stan": 0,
+    "special": "walentynki",
+    "name": "Placeholder",
+    "price": 60,
+    "type": "MCpixAI",
+    "rarity": "Custom art",
+    "ai": "tak",
+    "images": []
   }
 ]
