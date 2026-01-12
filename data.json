@@ -320,6 +320,7 @@
   {
     "id": 121,
     "stan": 11,
+    "special": "walentynki",
     "name": "Dragonite EX",
     "description": "Ilustracja emanuje spokojem i majestatem, ukazując Dragonite'a jako opiekuńczego lidera odpoczywającego na antycznych ruinach w towarzystwie swojej przedewolucyjnej rodziny – Dratini oraz Dragonair. Jasna, błękitna kolorystyka nieba idealnie współgra z potężną sylwetką tego Pokémona, który według legend potrafi okrążyć świat w zaledwie 16 godzin, a tutaj pełni rolę mitycznego \"Sky Guardian\" strzegącego spokoju sanktuarium. Kompozycja zachwyca malarskim detalem i głębią tła, nawiązując bezpośrednio do najbardziej prestiżowych kart typu Special Illustration Rare, które celebrują naturalne więzi między gatunkami. To dzieło sztuki łączy w sobie sentyment do pierwszej generacji z nowoczesnym, luksusowym stylem Full Art, podkreślając status Dragonite'a jako najpotężniejszego i najbardziej szlachetnego smoka z regionu Kanto.",
     "price": 60,
@@ -374,6 +375,7 @@
   {
     "id": 124,
     "stan": 9,
+    "special": "last chance",
     "name": "Espeon",
     "description": "Espeon z serii Genetic Apex (TCG Pocket Edition) to zachwycająca karta typu Illustration Rare, która w oniryczny sposób ukazuje elegancję i mistyczną naturę tego psychicznego Pokémona. Ilustracja przedstawia Espeona pośród wirujących, pastelowych smug energii i baśniowej roślinności, co bezpośrednio nawiązuje do jego niezwykłej wrażliwości na prądy powietrza, którą wyczuwa za pomocą swojego charakterystycznego, rozwidlonego ogona. Centralnym punktem kompozycji jest lśniący, rubinowy klejnot na jego czole, który według lore rozbłyska, gdy Pokémon używa swoich mocy psychicznych do przewidywania ruchów przeciwnika lub ochrony swojego trenera. Delikatna, malarska kreska artysty niko w połączeniu z dynamiczną grą świateł buduje atmosferę spokoju i magii, idealnie wpisując się w luksusową estetykę „Immersive Rare”, która definiuje nowoczesne podejście do cyfrowego kolekcjonerstwa. Całość rezygnuje z tradycyjnych ramek, oferując pełne zanurzenie w eterycznym świecie, co czyni tę kartę jednym z najbardziej pożądanych artefaktów wizualnych w całym zestawie Pocket.",
     "price": 60,
@@ -496,6 +498,7 @@
   {
     "id": 131,
     "stan": 6,
+    "special": "bestseller",
     "name": "Mewtwo EX",
     "description": "Mewtwo ex autorstwa Devin Elle Kurtz to zachwycająca karta kolekcjonerska o numeracji 027/025, stanowiąca głęboko poruszającą interpretację genezy najpotężniejszego Pokémona na świecie. Ilustracja w mistrzowski sposób ukazuje moment uwięzienia Mewtwo w sterylnym, laboratoryjnym zbiorniku, z licznymi przewodami podłączonymi do jego ciała, co stanowi bezpośrednie nawiązanie do tragicznego lore związanego z eksperymentami na Wyspie New Island. Na pierwszym planie widoczna jest filigranowa, świecąca na różowo sylwetka Mew, która z ciekawością i smutkiem spogląda na swój genetyczny klon, co buduje niesamowite napięcie emocjonalne i podkreśla kontrast między pierwotną czystością a technologicznym cierpieniem. Jako karta typu ex z potężnym 330 HP, dysponuje atakami takimi jak „Mind Sync”, zadającym potężne obrażenia przy odpowiednim wsparciu energii, oraz „Mindstorm Break”, który pozwala na manipulację kartami Stadium, co w połączeniu z oniryczną, kinową kolorystyką tworzy prawdziwe dzieło sztuki typu Special Illustration Rare.",
     "price": 60,
