@@ -596,16 +596,41 @@
     },
     {
       "id": 136,
-      "stan": 5,
+      "stan": 10,
       "preorder": "2026-02-01T23:00:00.000Z",
       "special": "walentynki",
       "name": "Placeholder",
-      "price": 60,
+      "description": "Zestaw Connected art",
+      "price": 140,
       "type": "MCpixAI",
       "rarity": "Custom art",
       "ai": "tak",
+      "img1": "/images/mew1_valentine.png",
+      "img2": "/images/mew2_valentine.png",
       "reveal": 0,
-      "images": []
+      "connected": "tak",
+      "images": [
+        "/images/mew1_valentine.png",
+        "/images/mew2_valentine.png"
+      ]
+    },
+    {
+      "id": 137,
+      "stan": 10,
+      "special": "What if",
+      "name": "TEST",
+      "description": "Zestaw Connected art",
+      "price": 140,
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "img1": "/images/Mewtwo_EX_1.jpg",
+      "img2": "/images/vader.png",
+      "connected": "tak",
+      "images": [
+        "/images/Mewtwo_EX_1.jpg",
+        "/images/vader.png"
+      ]
     }
   ],
   "promo": {
@@ -613,5 +638,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "17.01.2026, 00:06:46"
+  "lastUpdate": "17.01.2026, 01:40:47"
 }
