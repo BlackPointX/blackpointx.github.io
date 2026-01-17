@@ -599,8 +599,8 @@
       "stan": 10,
       "preorder": "2026-02-01T23:00:00.000Z",
       "special": "walentynki",
-      "name": "Placeholder",
-      "description": "Zestaw Connected art",
+      "name": "Mew & Mew",
+      "description": "Przedstawiam unikalny duet kart, które po złączeniu tworzą pełną panoramę. Projekt zainspirowany wideo z TikToka, wykonany od podstaw z najwyższą dbałością o detale.\nUnikalna konstrukcja: Specjalnie przeprojektowana ramka pozwala artom bezpośrednio łączyć się ze sobą, tworząc spójny obraz.\nSymbolika: Idealny prezent na Walentynki – karty „szukają się” i uzupełniają, symbolizując wyjątkową więź.\nJakość: Najwyższy standard druku, nasycone kolory i detale, które zachwycą każdego kolekcjonera.\nKarty pasują do standardowych albumów i toploaderów. Idealny wybór na prezent dla fana nietuzinkowych projektów!",
       "price": 140,
       "type": "MCpixAI",
       "rarity": "Custom connected art",
@@ -620,5 +620,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "17.01.2026, 02:50:41"
+  "lastUpdate": "17.01.2026, 10:20:07"
 }
