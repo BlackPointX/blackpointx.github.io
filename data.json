@@ -596,7 +596,7 @@
     },
     {
       "id": 136,
-      "stan": 9,
+      "stan": 8,
       "preorder": "2026-02-01T23:00:00.000Z",
       "special": "walentynki",
       "name": "Mew & Mew",
@@ -620,5 +620,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "17.01.2026, 19:37:36"
+  "lastUpdate": "17.01.2026, 20:22:03"
 }
