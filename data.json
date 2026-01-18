@@ -180,7 +180,7 @@
     },
     {
       "id": 111,
-      "stan": 3,
+      "stan": 0,
       "name": "Lucario VMAX",
       "description": "Lucario VMAX z serii Aura Mastery to unikatowa karta o numeracji 001/001, stanowiąca potężne i jedyne w swoim rodzaju zwieńczenie autorskiej kolekcji. Ilustracja ukazuje Lucario w jego majestatycznej formie Gigantamax, emanującego niszczycielską energią aury, która według lore pozwala mu nie tylko wyczuwać obecność istot z ogromnych odległości, ale także przewidywać ruchy przeciwników poprzez czytanie ich emocji. Dynamiczna, bojowa poza Pokémona oraz spektakularna gra świateł w tle podkreślają siłę jego specjalnego ataku „G-Max Pulse Break”, idealnie oddając ducha walki i niezłomność tego legendarnego mistrza sztuk walki. Całość została wykonana w nowoczesnej estetyce VMAX Full Art z intensywnym, wielobarwnym tłem, co nawiązuje do najbardziej prestiżowych wydań kolekcjonerskich typu Rainbow Rare, czyniąc z tej karty prawdziwy skarb dla każdego fana serii.",
       "price": 60,
@@ -194,7 +194,7 @@
     },
     {
       "id": 112,
-      "stan": 7,
+      "stan": 0,
       "name": "Charizard & Gengar & Pikachu GX",
       "description": "Charizard & Pikachu & Gengar GX z serii Ultimate Tag Team Trio to unikatowy egzemplarz o numeracji 001/001, stanowiący absolutny unikat w świecie customowych kart GX. Ilustracja ukazuje niespotykany sojusz trzech najbardziej ikonicznych Pokémonów z regionu Kanto, gdzie niszczycielska moc ognia Charizarda, błyskawiczna energia Pikachu oraz mroczna psotność Gengara łączą się w potężnym ataku „Elemental Haunt”. Każdy z tych stworków reprezentuje inny aspekt siły – od fizycznej potęgi smoka, przez lojalność elektrycznej myszy, aż po niematerialną grozę ducha – co zgodnie z lore tworzy zespół praktycznie niemożliwy do pokonania. Dynamiczna kompozycja z centralnie umieszczonymi postaciami na tle intensywnych, tęczowych refleksów podkreśla prestiż tego „Dream Teamu”, a stylistyka karty nawiązuje do złotej ery zestawów Tag Team GX, wykorzystując technikę Full Art z nasyconą, niemal neonową kolorystyką, która nadaje całości luksusowy i nowoczesny wygląd.",
       "price": 60,
@@ -237,7 +237,7 @@
     },
     {
       "id": 115,
-      "stan": 7,
+      "stan": 0,
       "special": "What if",
       "name": "Squirtle EX",
       "description": "Squirtle ex z serii What If: Pokémon x The Matrix to unikatowy egzemplarz o numeracji 001/001, wchodzący w skład autorskiego cyklu, który łączy świat kieszonkowych stworków z najbardziej rozpoznawalnymi markami popkultury. Ilustracja ukazuje Squirtle’a jako cyfrowego buntownika kontrolującego strumienie spadającego kodu binarnego, co stanowi genialne nawiązanie do hakerskiej estetyki Matrixa oraz rebelianckiej natury legendarnego Squirtle Squad. Zielona, neonowa aura oraz ataki takie jak „Data Shield” czy „Bullet Code Burst” sugerują, że w tej alternatywnej rzeczywistości Pokémon ten stał się mistrzem manipulacji symulacją, zamieniając swoją defensywną naturę w potężną, cyfrową zaporę ogniową. Stylistyka karty, utrzymana w mrocznym, cyberpunkowym klimacie, stanowi odważny i artystyczny crossover, który łączy nostalgię lat 90. z futurystyczną wizją walki wewnątrz wirtualnego świata.",
@@ -273,7 +273,7 @@
     },
     {
       "id": 117,
-      "stan": 11,
+      "stan": 10,
       "name": "Lugia EX",
       "description": "Lugia ex autorstwa jazmlab to unikatowa karta kolekcjonerska oznaczona numerem 002, stanowiąca kolejną odsłonę w tej prestiżowej, autorskiej serii artystycznej. Ilustracja w niezwykle elegancki i minimalistyczny sposób oddaje majestat \"Strażnika Mórz\", prezentując czystą, białą sylwetkę Lugii na tle skłębionych chmur i stylizowanych fal, co idealnie nawiązuje do jej mitycznej zdolności kontrolowania pogody oraz uciszania najdzikszych oceanicznych sztormów. Chłodna, nasycona głębokimi błękitami i fioletem kolorystyka podkreśla potęgę ataku \"Aero Blast\", a dynamiczna kompozycja sugeruje obecność Pokémona w samym sercu nawałnicy, gdzie według lore przebywa, by chronić świat przed niszczycielską siłą uderzeń swoich skrzydeł. Styl graficzny karty stanowi wyrafinowane połączenie nowoczesnej ilustracji z subtelną estetyką japońskiego wzornictwa, co w zestawieniu z techniką Full Art nadaje projektowi luksusowy, niemal oniryczny charakter, wyróżniający go na tle klasycznych wydań TCG.",
       "price": 60,
@@ -287,7 +287,7 @@
     },
     {
       "id": 118,
-      "stan": 11,
+      "stan": 0,
       "name": "Mega Gengar EX",
       "description": "Mega Gengar ex autorstwa Nicola Moro to unikatowa karta kolekcjonerska oznaczona numerem 072, stanowiąca mroczne i majestatyczne wyobrażenie jednej z najpotężniejszych megaewolucji. Ilustracja ukazuje Mega Gengara dominującego nad monumentalnymi schodami nawiedzonej rezydencji, co idealnie oddaje jego naturę jako władcy cieni i istotę potrafiącą swobodnie przemieszczać się między wymiarami. Centralnym punktem kompozycji jest jego złowieszcze trzecie oko, które według lore pozwala mu dostrzegać lęki przeciwników, podczas gdy z dołu kadru wyłaniają się widmowe dłonie i opary energii, podkreślające działanie unikalnej umiejętności „Shadow hiding”. Intensywna, fioletowo-różowa kolorystyka w połączeniu z dopracowaną, gotycką architekturą tła buduje atmosferę luksusowego horroru, nawiązując do najbardziej prestiżowych wydań typu Special Illustration Rare. Styl Nicola Moro wyróżnia się tu niesamowitą głębią i teatralnym ujęciem perspektywy, co czyni tę kartę spektakularnym przykładem nowoczesnego fan-artu, który z wielkim szacunkiem reinterpretuje niszczycielską potęgę typu duchowego.",
       "price": 60,
@@ -315,7 +315,7 @@
     },
     {
       "id": 120,
-      "stan": 7,
+      "stan": 0,
       "name": "Espeon VMAX",
       "description": "Ilustracja w spektakularny sposób ukazuje majestatyczną formę Gigantamax, gdzie Espeon odpoczywa na dachu budynku, górując nad tętniącym życiem miastem, co stanowi genialne nawiązanie do jego psychicznych zdolności i umiejętności \"Solar Revelation\". Ciepła, niemal oniryczna kolorystyka zachodzącego słońca podkreśla szlachetny fiolet jego futra oraz rubinowy klejnot na czole, który według lore pozwala mu wyczuwać prądy powietrza i przewidywać ruchy przeciwników. W dolnej części kadru można dostrzec maleńkiego Eevee, co dodaje scenie niesamowitej skali i nostalgicznego uroku, podkreślając dystans, jaki ten Pokémon przebył od swojej podstawowej formy. Całość została zaprojektowana w stylu Alternate Art, łączącym niezwykłą szczegółowość miejskiej architektury z baśniowym, surrealistycznym klimatem, co czyni tę kartę obowiązkowym elementem każdej zaawansowanej kolekcji.",
       "price": 60,
@@ -417,7 +417,7 @@
     },
     {
       "id": 126,
-      "stan": 7,
+      "stan": 0,
       "name": "Charizard EX",
       "description": "Charizard ex z serii Genetic Apex (TCG Pocket Edition) to jedna z najbardziej pożądanych kart w całym zestawie, ukazująca niszczycielską potęgę tego ognistego tytana w niemal hipnotyzujący sposób. Ilustracja przedstawia Charizarda w samym centrum kolorystycznego tornada, co w genialny sposób nawiązuje do jego natury jako Pokémona władającego płomieniami zdolnymi stopić najtwardszą skałę. Dynamiczne smugi błękitu i pomarańczu podkreślają energię ataku „Crimson Storm”, budując atmosferę potęgi i majestatu, która od lat definiuje status tego smoka w świecie TCG. Kompozycja wykonana w nowoczesnym stylu „Immersive Rare” całkowicie eliminuje tradycyjne obramowania, pozwalając kolekcjonerowi w pełni zanurzyć się w cyfrowej feerii barw i poczuć żar bijący z ekranu. To artystyczne dzieło jest idealnym połączeniem nostalgii za pierwszą generacją z futurystycznym wzornictwem, które stawia postać Charizarda w roli niekwestionowanego króla każdej mobilnej kolekcji.",
       "price": 60,
@@ -435,7 +435,7 @@
     },
     {
       "id": 127,
-      "stan": 6,
+      "stan": 1,
       "name": "Eevee EX Tera",
       "description": "Centralnie umieszczony Eevee jest otoczony przez wszystkie osiem swoich ewolucji, co w malowniczy sposób obrazuje jego unikalną naturę oraz zdolność adaptacji do najbardziej zróżnicowanych środowisk. Każda z postaci, od mrocznego Umbreona po lodowego Glaceona, zajmuje fragment krainy odpowiadający jej żywiołowi, tworząc tętniącą życiem panoramę, która oddaje ducha ewolucyjnej różnorodności. Wykorzystanie motywu \"Tera\" oraz kunsztownej kreski artysty podkreśla, że Eevee, mimo swojego skromnego wyglądu, skrywa w sobie nieskończone możliwości transformacji znane z najgłębszego lore serii. Stylistyka karty nawiązuje do najbardziej prestiżowych wydań Special Illustration Rare, łącząc baśniową estetykę z nasyconą, radosną kolorystyką, co czyni ją prawdziwym klejnotem w każdej kolekcji poświęconej \"Eeveelutions\".",
       "price": 60,
@@ -620,5 +620,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "18.01.2026, 11:17:01"
+  "lastUpdate": "18.01.2026, 11:38:13"
 }
