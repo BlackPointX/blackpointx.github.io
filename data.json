@@ -132,7 +132,7 @@
     },
     {
       "id": 108,
-      "stan": 5,
+      "stan": 4,
       "special": "What if",
       "name": "Geralt EX",
       "description": "Geralt ex z serii Witcher x Pokémon Crossover to unikatowy egzemplarz o numeracji 001/001, stanowiący jedyne w swoim rodzaju, kolekcjonerskie połączenie dwóch epickich uniwersów. Scena ukazuje legendarnego Białego Wilka przygotowanego do starcia z Tentacrulem pośród mrocznych, bagiennych wód, co w genialny sposób nawiązuje do fachu Wiedźmina jako profesjonalnego łowcy potworów. Dynamika ilustracji skupia się na Geralcie dzierżącym srebrny miecz, gotowym do wyprowadzenia ataku „Silver Strike” lub użycia znaku „Aard”, podczas gdy jaskrawa kolorystyka i efektowne, tęczowe refleksy nadają starciu niemal nadprzyrodzonego blasku. Kompozycja zachwyca szczegółowością tła usianego liliami wodnymi oraz kontrastem między surową sylwetką bohatera a organicznym kształtem Pokémona, czerpiąc inspirację z najbardziej prestiżowych wydań typu Special Illustration Rare. Ta artystyczna fuzja jest hołdem dla stylu dark fantasy przeniesionego na grunt nowoczesnego TCG, tworząc niepowtarzalny artefakt, który zaciera granice między światami gier.",
@@ -256,7 +256,7 @@
     },
     {
       "id": 116,
-      "stan": 1,
+      "stan": 0,
       "special": "last chance",
       "name": "Heisenberg's Koffing",
       "description": "Heisenberg's Koffing z serii What If: Breaking Bad x Pokémon to unikatowy egzemplarz o numeracji 001/001, stanowiący odważne i prowokujące połączenie świata kieszonkowych stworków z kultowym serialowym uniwersum. Ilustracja przedstawia Waltera White’a w jego ikonicznym żółtym kombinezonie ochronnym, któremu towarzyszy Koffing – Pokémon idealnie pasujący do toksycznej i chemicznej natury podziemnego laboratorium ze względu na swoją naturalną zdolność do produkcji i bytowania w oparach trujących gazów. Scena nasycona jest jaskrawą, wręcz neonową zielenią, która w połączeniu z precyzyjnymi detalami aparatury laboratoryjnej podkreśla merytoryczną spójność zdolności „Crystal Cook” z naturą obu postaci, tworząc mroczny, a zarazem fascynujący klimat. Styl artystyczny tej karty typu Full Art mistrzowsko balansuje między surowym klimatem dramatu kryminalnego a estetyką klasycznego TCG, tworząc unikatowy most między dwiema legendarnymi markami popkultury.\\",
@@ -507,7 +507,7 @@
     },
     {
       "id": 131,
-      "stan": 6,
+      "stan": 5,
       "special": "bestseller",
       "name": "Mewtwo EX",
       "description": "Mewtwo ex autorstwa Devin Elle Kurtz to zachwycająca karta kolekcjonerska o numeracji 027/025, stanowiąca głęboko poruszającą interpretację genezy najpotężniejszego Pokémona na świecie. Ilustracja w mistrzowski sposób ukazuje moment uwięzienia Mewtwo w sterylnym, laboratoryjnym zbiorniku, z licznymi przewodami podłączonymi do jego ciała, co stanowi bezpośrednie nawiązanie do tragicznego lore związanego z eksperymentami na Wyspie New Island. Na pierwszym planie widoczna jest filigranowa, świecąca na różowo sylwetka Mew, która z ciekawością i smutkiem spogląda na swój genetyczny klon, co buduje niesamowite napięcie emocjonalne i podkreśla kontrast między pierwotną czystością a technologicznym cierpieniem. Jako karta typu ex z potężnym 330 HP, dysponuje atakami takimi jak „Mind Sync”, zadającym potężne obrażenia przy odpowiednim wsparciu energii, oraz „Mindstorm Break”, który pozwala na manipulację kartami Stadium, co w połączeniu z oniryczną, kinową kolorystyką tworzy prawdziwe dzieło sztuki typu Special Illustration Rare.",
@@ -620,5 +620,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "20.01.2026, 07:49:54"
+  "lastUpdate": "20.01.2026, 08:32:31"
 }
