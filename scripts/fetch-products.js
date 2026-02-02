@@ -21,25 +21,21 @@ async function fetchData() {
     const nonce = Math.random().toString(36).substring(7);
     const timestamp = Date.now();
 
-    // 1. Pobierz PRODUKTY
-    console.log('📦 Pobieranie produktów...');
-    const productsUrl = `${GOOGLE_SCRIPT_URL}?nonce=${nonce}&t=${timestamp}`;
-    const productsRes = await fetch(productsUrl, {
+    // 1. Pobierz DANE ZBIORCZE (get_init_data)
+    console.log('📦 Pobieranie danych (Produkty + Rabaty + Galeria)...');
+    // Używamy get_init_data aby pobrać wszystko jednym strzałem
+    const initUrl = `${GOOGLE_SCRIPT_URL}?action=get_init_data&nonce=${nonce}&t=${timestamp}`;
+    const initRes = await fetch(initUrl, {
         headers: { 'Cache-Control': 'no-cache' }
     });
-    if (!productsRes.ok) throw new Error(`HTTP Error Products: ${productsRes.status}`);
-    const productsData = await productsRes.json();
+    if (!initRes.ok) throw new Error(`HTTP Error Init Data: ${initRes.status}`);
+    const initData = await initRes.json();
 
-    // 2. Pobierz RABATY
-    console.log('🎟️ Pobieranie rabatów...');
-    const discountsUrl = `${GOOGLE_SCRIPT_URL}?action=get_discounts&nonce=${nonce}&t=${timestamp}`;
-    const discountsRes = await fetch(discountsUrl, {
-        headers: { 'Cache-Control': 'no-cache' }
-    });
-    if (!discountsRes.ok) throw new Error(`HTTP Error Discounts: ${discountsRes.status}`);
-    const discountsData = await discountsRes.json();
+    const productsData = initData.products || [];
+    const discountsData = initData.discounts || [];
+    const galleryData = initData.gallery || []; // Nowe pole
 
-    // 3. Przetwórz dane (Logika Promo po stronie Builda)
+    // 2. Przetwórz dane (Logika Promo po stronie Builda)
     let activePromo = {
         code: undefined,
         catalogMultiplier: 1,
@@ -47,7 +43,7 @@ async function fetchData() {
     };
 
     if (Array.isArray(discountsData)) {
-        // Logika identyczna jak w App.tsx - szukamy 'tak' w kolumnie Promo
+        // Logika identyczna jak w App.tsx
         const promoRule = discountsData.find((d) => {
             const promoVal = String(d["Promo"] || d["promo"] || "").toLowerCase();
             return promoVal === 'tak' || promoVal === 'yes' || promoVal === 'true';
@@ -93,9 +89,10 @@ async function fetchData() {
         }
     }
 
-    // 4. Budowanie ostatecznego JSONa
+    // 3. Budowanie ostatecznego JSONa
     const finalData = {
         products: Array.isArray(productsData) ? productsData : [],
+        gallery: Array.isArray(galleryData) ? galleryData : [],
         promo: activePromo,
         lastUpdate: new Date().toLocaleString('pl-PL')
     };
@@ -103,6 +100,7 @@ async function fetchData() {
     // DEBUG:
     if (finalData.products.length > 0) {
         console.log(`📦 Pobranno ${finalData.products.length} produktów.`);
+        console.log(`🖼️ Pobranno ${finalData.gallery.length} elementów galerii.`);
         console.log(`🎟️ Promo: ${JSON.stringify(finalData.promo)}`);
     }
 

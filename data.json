@@ -616,10 +616,36 @@
       ]
     }
   ],
+  "gallery": [
+    {
+      "ID": 1,
+      "Typ": "image",
+      "Tytuł": "Czarek ",
+      "Opis": "Holo",
+      "URL": "https://static.posters.cz/image/1300/plakaty/pokemon-pikachu-neon-i71936.jpg",
+      "Poster": "https://static.posters.cz/image/1300/plakaty/pokemon-pikachu-neon-i71936.jpg"
+    },
+    {
+      "ID": 2,
+      "Typ": "video",
+      "Tytuł": "Czarek ",
+      "Opis": "Holo",
+      "URL": "https://res.cloudinary.com/dkghycylz/video/upload/v1770070884/geijudn28tk47lbm8zw8.mp4",
+      "Poster": ""
+    },
+    {
+      "ID": 3,
+      "Typ": "video",
+      "Tytuł": "drtgd",
+      "Opis": "dfggf",
+      "URL": "https://www.youtube.com/shorts/IQ14AVePD_g?feature=share",
+      "Poster": ""
+    }
+  ],
   "promo": {
     "code": "Kanto26",
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "2.02.2026, 22:51:19"
+  "lastUpdate": "3.02.2026, 00:02:39"
 }
