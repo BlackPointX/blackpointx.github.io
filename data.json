@@ -162,7 +162,7 @@
     },
     {
       "id": 110,
-      "stan": 23,
+      "stan": 20,
       "name": "Special Delivery Pikachu",
       "description": "Special Delivery Pikachu z serii Error 17 to unikatowa, satyryczna karta oznaczona numerem Error 17, stanowiąca żartobliwe nawiązanie do wyzwań związanych z dostępnością limitowanych produktów w oficjalnym sklepie Pokémon Center. Ilustracja przedstawia uśmiechniętego Pikachu w roli kuriera stojącego przed budynkiem centrum, co w ironiczny sposób kontrastuje z humorystycznymi nazwami umiejętności „Error 404” oraz ataku „Out Of Stock”. Sielankowa, słoneczna sceneria i soczysta zieleń trawnika budują pozory spokoju, podczas gdy treść karty bezpośrednio nawiązuje do frustracji kolekcjonerów czekających w wirtualnych kolejkach, co nadaje projektowi merytorycznej głębi i autentyczności. Pikachu, będący symbolem optymizmu, występuje tu jako posłaniec niefortunnych komunikatów systemowych, co czyni tę kartę błyskotliwym komentarzem do współczesnej kultury kolekcjonerskiej. Styl graficzny wiernie naśladuje estetykę oficjalnych wydań promocyjnych typu Full Art, łącząc czystą, nowoczesną kreskę z memicznym przekazem, który z pewnością doceni każdy fan polujący na rzadkie okazy.",
       "price": 60,
@@ -621,5 +621,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "2.02.2026, 18:43:10"
+  "lastUpdate": "2.02.2026, 22:51:19"
 }
