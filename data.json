@@ -614,6 +614,16 @@
         "/images/mew1_valentine.png",
         "/images/mew2_valentine.png"
       ]
+    },
+    {
+      "id": 137,
+      "stan": 1,
+      "special": "What if",
+      "name": "test",
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "images": []
     }
   ],
   "gallery": [
@@ -647,5 +657,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "3.02.2026, 23:45:58"
+  "lastUpdate": "3.02.2026, 23:14:07"
 }
