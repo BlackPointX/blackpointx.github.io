@@ -620,6 +620,7 @@
       "stan": 1,
       "special": "What if",
       "name": "test",
+      "price": 1,
       "type": "MCpixAI",
       "rarity": "Custom art",
       "ai": "tak",
@@ -657,5 +658,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "3.02.2026, 23:17:09"
+  "lastUpdate": "3.02.2026, 23:19:59"
 }
