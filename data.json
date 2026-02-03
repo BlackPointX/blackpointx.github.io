@@ -633,8 +633,8 @@
       "Typ": "image",
       "Tytuł": "Czarek ",
       "Opis": "Holo",
-      "URL": "https://static.posters.cz/image/1300/plakaty/pokemon-pikachu-neon-i71936.jpg",
-      "Poster": "https://static.posters.cz/image/1300/plakaty/pokemon-pikachu-neon-i71936.jpg"
+      "URL": "",
+      "Poster": "/images/gallery/Meowth_EX_1.jpg"
     },
     {
       "ID": 2,
@@ -658,5 +658,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "3.02.2026, 23:27:52"
+  "lastUpdate": "4.02.2026, 00:30:34"
 }
