@@ -254,8 +254,8 @@
     },
     {
       "id": 116,
-      "stan": 0,
-      "special": "last chance",
+      "stan": 4,
+      "special": "bestseller",
       "name": "Heisenberg's Koffing",
       "description": "Heisenberg's Koffing z serii What If: Breaking Bad x Pokémon to unikatowy egzemplarz o numeracji 001/001, stanowiący odważne i prowokujące połączenie świata kieszonkowych stworków z kultowym serialowym uniwersum. Ilustracja przedstawia Waltera White’a w jego ikonicznym żółtym kombinezonie ochronnym, któremu towarzyszy Koffing – Pokémon idealnie pasujący do toksycznej i chemicznej natury podziemnego laboratorium ze względu na swoją naturalną zdolność do produkcji i bytowania w oparach trujących gazów. Scena nasycona jest jaskrawą, wręcz neonową zielenią, która w połączeniu z precyzyjnymi detalami aparatury laboratoryjnej podkreśla merytoryczną spójność zdolności „Crystal Cook” z naturą obu postaci, tworząc mroczny, a zarazem fascynujący klimat. Styl artystyczny tej karty typu Full Art mistrzowsko balansuje między surowym klimatem dramatu kryminalnego a estetyką klasycznego TCG, tworząc unikatowy most między dwiema legendarnymi markami popkultury.\\",
       "price": 60,
@@ -638,5 +638,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "4.02.2026, 01:57:18"
+  "lastUpdate": "4.02.2026, 00:59:37"
 }
