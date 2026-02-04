@@ -608,7 +608,7 @@
     },
     {
       "id": 137,
-      "stan": 1,
+      "stan": 0,
       "name": "test",
       "description": 1,
       "price": 1,
@@ -649,5 +649,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "4.02.2026, 01:35:44"
+  "lastUpdate": "4.02.2026, 01:37:57"
 }
