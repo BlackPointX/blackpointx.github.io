@@ -605,17 +605,6 @@
         "/images/mew1_valentine.png",
         "/images/mew2_valentine.png"
       ]
-    },
-    {
-      "id": 137,
-      "stan": 0,
-      "name": "test",
-      "description": 1,
-      "price": 1,
-      "type": "aaa",
-      "rarity": "custom art",
-      "ai": "nie",
-      "images": []
     }
   ],
   "gallery": [
@@ -649,5 +638,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "4.02.2026, 01:37:57"
+  "lastUpdate": "4.02.2026, 02:02:42"
 }
