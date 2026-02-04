@@ -125,7 +125,6 @@
       "rarity": "Custom art",
       "ai": "nie",
       "img1": "/images/squirtle_squad_2.jpg",
-      "reveal": 90,
       "images": [
         "/images/squirtle_squad_2.jpg"
       ]
@@ -472,7 +471,6 @@
     {
       "id": 129,
       "stan": 4,
-      "preorder": "2026-02-02T23:00:00.000Z",
       "name": "Gyarados VMAX",
       "description": "Gyarados VMAX to wyjątkowa karta ukazująca potężnego Gyaradosa w zaskakującej, niemal onirycznej scenie, będącej sercem tej limitowanej kolekcji artystycznej. Ilustracja w genialny sposób przełamuje klasyczny wizerunek tego Pokémona jako symbolu nieokiełznanego gniewu, przedstawiając go w obramowaniu eleganckich, teatralnych kotar, z których wyłania się feeria barw, leśnych owoców i morskich stworzeń. Kontrast między groźną aparycją Gyaradosa a delikatnością wirujących jagód i pastelowym, gwieździstym tłem tworzy unikalną narrację o harmonii potęgi z naturą, co stanowi ciekawe nawiązanie do ewolucji z bezbronnego Magikarpa w mitycznego smoka. Kompozycja czerpie inspirację z estetyki klasycznego teatru oraz malarstwa impresjonistycznego, łącząc tradycyjne motywy japońskie z nowoczesnym, bajkowym stylem, co nadaje całości niespotykanej głębi i szlachetności.",
       "price": 60,
@@ -480,7 +478,6 @@
       "rarity": "Custom art",
       "ai": "nie",
       "img1": "/images/Gyarados_VMAX_1.jpg\n",
-      "reveal": 90,
       "images": [
         "/images/Gyarados_VMAX_1.jpg\n"
       ]
@@ -565,7 +562,7 @@
     {
       "id": 134,
       "stan": 4,
-      "preorder": "2026-02-02T23:00:00.000Z",
+      "special": "What if",
       "name": "Vader's Zekrom",
       "description": "Zekrom & Darth Vader to monumentalna karta typu crossover, która łączy legendarnego Pokémona Ideałów z ikoną ciemnej strony mocy w jednej, mrocznej wizji. Ilustracja ukazuje potężną synergię między Zekromem, znanym z generowania niszczycielskich wyładowań elektrycznych ze swojego ogona-generatora, a Lordem Vaderem, którego czerwony miecz świetlny stanowi jedyny jaskrawy akcent w tej surowej, niemal monochromatycznej kompozycji. Dynamika sceny, podkreślona przez błękitne błyskawice rozdzierające niebo, idealnie oddaje majestat i bezwzględną siłę obu postaci, co stanowi bezpośrednie nawiązanie do ich wspólnej cechy – dążenia do realizacji surowych ideałów za wszelką cenę. Styl artystyczny nawiązuje do mrocznego koncept-artu i estetyki współczesnych komiksów sci-fi, wykorzystując ostre kontury oraz filmowe oświetlenie typu chiaroscuro, aby nadać całości epickiego, niemal kinowego charakteru.",
       "price": 60,
@@ -573,7 +570,6 @@
       "rarity": "Custom art",
       "ai": "tak",
       "img1": "/images/vader.png",
-      "reveal": 90,
       "images": [
         "/images/vader.png"
       ]
@@ -581,7 +577,6 @@
     {
       "id": 135,
       "stan": 4,
-      "preorder": "2026-02-02T23:00:00.000Z",
       "special": "walentynki",
       "name": "Joker's Mimikyu",
       "description": "Mimikyu VMAX & Joker to mroczna i hipnotyzująca karta typu crossover, która łączy najbardziej tajemniczego Pokémona regionu Alola z legendarnym Księciem Zbrodni w jednej, przerażającej wizji. Ilustracja przedstawia Mimikyu w jego gigantycznej formie Dynamax, którego upiorne, cieniiste szpony i przeszywające, puste spojrzenie idealnie współgrają z maniakalnym uśmiechem Jokera, tworząc atmosferę niepohamowanego chaosu i grozy. Kolorystyka zdominowana przez toksyczną zieleń oraz głębokie fiolety podkreśla nadnaturalną energię bijącą od tej dwójki, nawiązując jednocześnie do tragicznej natury Mimikyu, który pod swoją szmacianą maską skrywa mrok zdolny obezwładnić każdego, kto odważy się go podejrzeć. Dynamiczna kompozycja z wirującymi wyładowaniami energii i lewitującymi odłamkami oddaje niszczycielską skalę mocy VMAX, przekształcając dziecięce pragnienie akceptacji Mimikyu w potężną broń psychologiczną. Styl artystyczny karty stanowi unikalne połączenie estetyki nowoczesnych, pełnoilustrowanych kart TCG z mrocznym, komiksowym ekspresjonizmem, co nadaje całości wyjątkowego, kolekcjonerskiego charakteru.",
@@ -590,7 +585,6 @@
       "rarity": "Custom art",
       "ai": "tak",
       "img1": "/images/joker.png",
-      "reveal": 90,
       "images": [
         "/images/joker.png"
       ]
@@ -598,7 +592,6 @@
     {
       "id": 136,
       "stan": 3,
-      "preorder": "2026-02-02T23:00:00.000Z",
       "special": "walentynki",
       "name": "Mew & Mew",
       "description": "Przedstawiam unikalny duet kart, które po złączeniu tworzą pełną panoramę. Projekt zainspirowany wideo z TikToka, wykonany od podstaw z najwyższą dbałością o detale.\nUnikalna konstrukcja: Specjalnie przeprojektowana ramka pozwala artom bezpośrednio łączyć się ze sobą, tworząc spójny obraz.\nSymbolika: Idealny prezent na Walentynki – karty „szukają się” i uzupełniają, symbolizując wyjątkową więź.\nJakość: Najwyższy standard druku, nasycone kolory i detale, które zachwycą każdego kolekcjonera.\nKarty pasują do standardowych albumów i toploaderów. Idealny wybór na prezent dla fana nietuzinkowych projektów!",
@@ -608,7 +601,6 @@
       "ai": "tak",
       "img1": "/images/mew1_valentine.png",
       "img2": "/images/mew2_valentine.png",
-      "reveal": 0,
       "connected": "tak",
       "images": [
         "/images/mew1_valentine.png",
@@ -658,5 +650,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "3.02.2026, 23:53:07"
+  "lastUpdate": "4.02.2026, 00:11:05"
 }
