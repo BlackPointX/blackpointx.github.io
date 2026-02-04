@@ -117,7 +117,6 @@
     {
       "id": 107,
       "stan": 4,
-      "preorder": "2026-02-02T23:00:00.000Z",
       "name": "Squirtle Squad",
       "description": "Squirtle Squad to unikalna karta stanowiąca serce limitowanego zestawu poświęconego najbardziej ikonicznym grupom w historii Pokémon. Ilustracja emanuje niesamowitą energią i humorem, uwieczniając legendarny gang w ich charakterystycznych, ciemnych okularach podczas beztroskiego popołudnia wypełnionego jedzeniem pizzy i wodnymi psotami, co doskonale oddaje ich zadziorny charakter znany z klasycznej serii anime. Dynamiczna kompozycja i nasycona, błękitna kolorystyka tła podkreślają radosną naturę tych wodnych stworków, ukazując jednocześnie ich silną więź i lojalność wobec własnej grupy. Styl artystyczny karty czerpie garściami z nowoczesnego pop-artu oraz estetyki sticker-bomb, wykorzystując czyste linie i żywe barwy, aby stworzyć dzieło nawiązujące do kultury miejskiej i nostalgii lat 90.",
       "price": 60,
@@ -606,17 +605,6 @@
         "/images/mew1_valentine.png",
         "/images/mew2_valentine.png"
       ]
-    },
-    {
-      "id": 137,
-      "stan": 1,
-      "special": "What if",
-      "name": "test",
-      "price": 1,
-      "type": "MCpixAI",
-      "rarity": "Custom art",
-      "ai": "tak",
-      "images": []
     }
   ],
   "gallery": [
@@ -625,8 +613,8 @@
       "Typ": "image",
       "Tytuł": "Czarek ",
       "Opis": "Holo",
-      "URL": "",
-      "Poster": "/images/gallery/Meowth_EX_1.jpg"
+      "URL": "/images/gallery/Meowth_EX_1.jpg",
+      "Poster": ""
     },
     {
       "ID": 2,
@@ -650,5 +638,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "4.02.2026, 00:11:05"
+  "lastUpdate": "4.02.2026, 01:57:18"
 }
