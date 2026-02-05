@@ -670,7 +670,7 @@
       "Typ": "video",
       "Tytuł": "test2",
       "Opis": "test2",
-      "URL": "https://streamable.com/e/hy3vqk",
+      "URL": "https://streamable.com/hy3vqk",
       "Poster": ""
     }
   ],
@@ -679,5 +679,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "5.02.2026, 01:30:29"
+  "lastUpdate": "5.02.2026, 01:33:39"
 }
