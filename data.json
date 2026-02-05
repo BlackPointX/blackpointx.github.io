@@ -576,7 +576,7 @@
       "id": 135,
       "stan": 7,
       "special": "walentynki",
-      "name": "Joker's Mimikyu",
+      "name": "Joker's Mimikyu EX",
       "description": "Mimikyu VMAX & Joker to mroczna i hipnotyzująca karta typu crossover, która łączy najbardziej tajemniczego Pokémona regionu Alola z legendarnym Księciem Zbrodni w jednej, przerażającej wizji. Ilustracja przedstawia Mimikyu w jego gigantycznej formie Dynamax, którego upiorne, cieniiste szpony i przeszywające, puste spojrzenie idealnie współgrają z maniakalnym uśmiechem Jokera, tworząc atmosferę niepohamowanego chaosu i grozy. Kolorystyka zdominowana przez toksyczną zieleń oraz głębokie fiolety podkreśla nadnaturalną energię bijącą od tej dwójki, nawiązując jednocześnie do tragicznej natury Mimikyu, który pod swoją szmacianą maską skrywa mrok zdolny obezwładnić każdego, kto odważy się go podejrzeć. Dynamiczna kompozycja z wirującymi wyładowaniami energii i lewitującymi odłamkami oddaje niszczycielską skalę mocy VMAX, przekształcając dziecięce pragnienie akceptacji Mimikyu w potężną broń psychologiczną. Styl artystyczny karty stanowi unikalne połączenie estetyki nowoczesnych, pełnoilustrowanych kart TCG z mrocznym, komiksowym ekspresjonizmem, co nadaje całości wyjątkowego, kolekcjonerskiego charakteru.",
       "price": 60,
       "type": "MCpixAI",
@@ -589,7 +589,7 @@
     },
     {
       "id": 136,
-      "stan": 5,
+      "stan": 7,
       "special": "walentynki",
       "name": "Mew & Mew",
       "description": "Przedstawiam unikalny duet kart, które po złączeniu tworzą pełną panoramę. Projekt zainspirowany wideo z TikToka, wykonany od podstaw z najwyższą dbałością o detale.\nUnikalna konstrukcja: Specjalnie przeprojektowana ramka pozwala artom bezpośrednio łączyć się ze sobą, tworząc spójny obraz.\nSymbolika: Idealny prezent na Walentynki – karty „szukają się” i uzupełniają, symbolizując wyjątkową więź.\nJakość: Najwyższy standard druku, nasycone kolory i detale, które zachwycą każdego kolekcjonera.\nKarty pasują do standardowych albumów i toploaderów. Idealny wybór na prezent dla fana nietuzinkowych projektów!",
@@ -603,6 +603,40 @@
       "images": [
         "/images/mew1_valentine.png",
         "/images/mew2_valentine.png"
+      ]
+    },
+    {
+      "id": 137,
+      "stan": 10,
+      "special": "What if",
+      "name": "Sparrow's Gyarados EX",
+      "description": "Sparrow's Gyarados ex z serii What If to widowiskowe połączenie świata kieszonkowych potworów z estetyką kultowych filmów przygodowych, gdzie potęga oceanu spotyka się z piracką brawurą. Na ilustracji widzimy majestatycznego Gyaradosa wyłaniającego się z morskiej piany tuż za plecami legendarnego kapitana, co idealnie współgra z naturą tego Pokémona jako nieobliczalnej siły zdolnej do wywoływania potężnych sztormów. Dynamika sceny, podkreślona przez groźne błyskawice i wzburzone fale, oddaje niszczycielski temperament bestii, która według legend potrafi obrócić w ruinę wszystko na swojej drodze, gdy tylko wpadnie w furię. Kompozycja wykorzystuje głębokie odcienie błękitu i kontrastujące detale stroju pirata, tworząc spójną wizję crossoveru, który redefiniuje klasyczny wizerunek wodnego smoka w kinowym, epickim stylu.",
+      "price": 60,
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "img1": "/images/Sparrows_Gyarados_1.jpg",
+      "img2": "/images/Sparrows_Gyarados_2.jpg",
+      "images": [
+        "/images/Sparrows_Gyarados_1.jpg",
+        "/images/Sparrows_Gyarados_2.jpg"
+      ]
+    },
+    {
+      "id": 138,
+      "stan": 10,
+      "special": "What if",
+      "name": "Deadpool's Psyduck EX",
+      "description": "eadpool's Psyduck ex z serii What If to pełna humoru i kontrolowanego chaosu ilustracja, która łączy świat Marvela z jednym z najbardziej nieprzewidywalnych Pokémonów. Scena przedstawia Deadpoola w dynamicznym skoku z Pokéballem w dłoni, któremu towarzyszy zdezorientowany Psyduck, co stanowi idealne nawiązanie do natury tego stworka cierpiącego na chroniczne bóle głowy wyzwalające potężne moce psychiczne. Kompozycja kipi energią dzięki jaskrawym kolorom, komiksowej kresce i detalom takim jak czapka Asha w dłoni antybohatera, co podkreśla prześmiewczy i buntowniczy charakter całego crossoveru. Stylistyka nawiązuje do nowoczesnych kart Full Art, gdzie granica między akcją a komedią zaciera się, oddając hołd zarówno komiksowemu dziedzictwu, jak i specyficznej aurze tajemniczości otaczającej Psyducka.",
+      "price": 60,
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "img1": "/images/Deadpools_Psyduck_1.jpg",
+      "img2": "/images/Deadpools_Psyduck_2.jpg",
+      "images": [
+        "/images/Deadpools_Psyduck_1.jpg",
+        "/images/Deadpools_Psyduck_2.jpg"
       ]
     }
   ],
@@ -637,5 +671,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "4.02.2026, 23:33:22"
+  "lastUpdate": "5.02.2026, 02:16:12"
 }
