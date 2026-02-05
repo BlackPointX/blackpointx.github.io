@@ -664,6 +664,14 @@
       "Opis": "dfggf",
       "URL": "https://www.youtube.com/shorts/IQ14AVePD_g?feature=share",
       "Poster": ""
+    },
+    {
+      "ID": 4,
+      "Typ": "video",
+      "Tytuł": "test2",
+      "Opis": "test2",
+      "URL": "https://streamable.com/kqqm3j",
+      "Poster": ""
     }
   ],
   "promo": {
@@ -671,5 +679,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "5.02.2026, 02:16:12"
+  "lastUpdate": "5.02.2026, 01:22:19"
 }
