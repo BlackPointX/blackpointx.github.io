@@ -643,17 +643,17 @@
       "id": 138,
       "stan": 1,
       "special": "30th",
-      "name": "Coro Coro Mew",
-      "description": "Jescze nie gotowy",
+      "name": "ddd",
+      "description": "dd",
       "price": 60,
       "type": "MCpixAI",
       "rarity": "Custom art",
       "ai": "tak",
-      "img1": "/images/CoroMew_1.png",
-      "img2": "/images/CoroMew_1.png",
+      "img1": "/images/Deadpools_Psyduck_1.jpg",
+      "img2": "/images/Deadpools_Psyduck_2.jpg",
       "images": [
-        "/images/CoroMew_1.png",
-        "/images/CoroMew_1.png"
+        "/images/Deadpools_Psyduck_1.jpg",
+        "/images/Deadpools_Psyduck_2.jpg"
       ]
     }
   ],
@@ -696,5 +696,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "25.02.2026, 23:46:52"
+  "lastUpdate": "26.02.2026, 00:38:17"
 }
