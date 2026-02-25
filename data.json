@@ -115,7 +115,7 @@
     },
     {
       "id": 107,
-      "stan": 4,
+      "stan": 3,
       "name": "Squirtle Squad",
       "description": "Squirtle Squad to unikalna karta stanowiąca serce limitowanego zestawu poświęconego najbardziej ikonicznym grupom w historii Pokémon. Ilustracja emanuje niesamowitą energią i humorem, uwieczniając legendarny gang w ich charakterystycznych, ciemnych okularach podczas beztroskiego popołudnia wypełnionego jedzeniem pizzy i wodnymi psotami, co doskonale oddaje ich zadziorny charakter znany z klasycznej serii anime. Dynamiczna kompozycja i nasycona, błękitna kolorystyka tła podkreślają radosną naturę tych wodnych stworków, ukazując jednocześnie ich silną więź i lojalność wobec własnej grupy. Styl artystyczny karty czerpie garściami z nowoczesnego pop-artu oraz estetyki sticker-bomb, wykorzystując czyste linie i żywe barwy, aby stworzyć dzieło nawiązujące do kultury miejskiej i nostalgii lat 90.",
       "price": 60,
@@ -205,7 +205,7 @@
     },
     {
       "id": 113,
-      "stan": 5,
+      "stan": 4,
       "name": "Togepi",
       "description": "Togepi z serii Easter Adventure to inauguracyjna karta o numerze 001 z limitowanej kolekcji przygotowanej z okazji Wielkanocy, która w niezwykle radosny sposób celebruje ducha wspólnego świętowania. Ilustracja przedstawia Asha Ketchuma w malarskim fartuchu podczas pełnego energii przygotowywania pisanek, któremu towarzyszy rozpromieniony Togepi, co idealnie nawiązuje do natury tego Pokémona jako symbolu szczęścia i czystej radości. Dynamiczna kompozycja pełna wiosennych barw, kwitnących drzew i ukrytych czekoladowych jaj oddaje charakterystyczną dla serii atmosferę przygody, a humorystyczny atak „Over-Eggcited Hop” świetnie koresponduje z lore Togepi, który według legend potrafi magazynować pozytywne emocje w swojej skorupie, by dzielić się nimi z innymi. Stylistyka karty, wzbogacona o efektowne, tęczowe refleksy tła, nawiązuje do najbardziej prestiżowych wydań typu Illustration Rare, łącząc klasyczną estetykę anime z nowoczesnym, okolicznościowym designem. Całość tworzy unikatowy projekt, który w mistrzowski sposób przekształca motyw tradycyjnych świąt w barwną opowieść ze świata Pokémon.",
       "price": 60,
@@ -270,7 +270,7 @@
     },
     {
       "id": 117,
-      "stan": 10,
+      "stan": 9,
       "name": "Lugia EX",
       "description": "Lugia ex autorstwa jazmlab to unikatowa karta kolekcjonerska oznaczona numerem 002, stanowiąca kolejną odsłonę w tej prestiżowej, autorskiej serii artystycznej. Ilustracja w niezwykle elegancki i minimalistyczny sposób oddaje majestat \"Strażnika Mórz\", prezentując czystą, białą sylwetkę Lugii na tle skłębionych chmur i stylizowanych fal, co idealnie nawiązuje do jej mitycznej zdolności kontrolowania pogody oraz uciszania najdzikszych oceanicznych sztormów. Chłodna, nasycona głębokimi błękitami i fioletem kolorystyka podkreśla potęgę ataku \"Aero Blast\", a dynamiczna kompozycja sugeruje obecność Pokémona w samym sercu nawałnicy, gdzie według lore przebywa, by chronić świat przed niszczycielską siłą uderzeń swoich skrzydeł. Styl graficzny karty stanowi wyrafinowane połączenie nowoczesnej ilustracji z subtelną estetyką japońskiego wzornictwa, co w zestawieniu z techniką Full Art nadaje projektowi luksusowy, niemal oniryczny charakter, wyróżniający go na tle klasycznych wydań TCG.",
       "price": 60,
@@ -679,5 +679,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "25.02.2026, 10:51:02"
+  "lastUpdate": "25.02.2026, 11:36:33"
 }
