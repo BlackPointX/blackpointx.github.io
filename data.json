@@ -468,7 +468,7 @@
     },
     {
       "id": 129,
-      "stan": 4,
+      "stan": 0,
       "name": "Gyarados VMAX",
       "description": "Gyarados VMAX to wyjątkowa karta ukazująca potężnego Gyaradosa w zaskakującej, niemal onirycznej scenie, będącej sercem tej limitowanej kolekcji artystycznej. Ilustracja w genialny sposób przełamuje klasyczny wizerunek tego Pokémona jako symbolu nieokiełznanego gniewu, przedstawiając go w obramowaniu eleganckich, teatralnych kotar, z których wyłania się feeria barw, leśnych owoców i morskich stworzeń. Kontrast między groźną aparycją Gyaradosa a delikatnością wirujących jagód i pastelowym, gwieździstym tłem tworzy unikalną narrację o harmonii potęgi z naturą, co stanowi ciekawe nawiązanie do ewolucji z bezbronnego Magikarpa w mitycznego smoka. Kompozycja czerpie inspirację z estetyki klasycznego teatru oraz malarstwa impresjonistycznego, łącząc tradycyjne motywy japońskie z nowoczesnym, bajkowym stylem, co nadaje całości niespotykanej głębi i szlachetności.",
       "price": 60,
@@ -574,7 +574,7 @@
     },
     {
       "id": 135,
-      "stan": 7,
+      "stan": 0,
       "special": "walentynki",
       "name": "Joker's Mimikyu EX",
       "description": "Mimikyu VMAX & Joker to mroczna i hipnotyzująca karta typu crossover, która łączy najbardziej tajemniczego Pokémona regionu Alola z legendarnym Księciem Zbrodni w jednej, przerażającej wizji. Ilustracja przedstawia Mimikyu w jego gigantycznej formie Dynamax, którego upiorne, cieniiste szpony i przeszywające, puste spojrzenie idealnie współgrają z maniakalnym uśmiechem Jokera, tworząc atmosferę niepohamowanego chaosu i grozy. Kolorystyka zdominowana przez toksyczną zieleń oraz głębokie fiolety podkreśla nadnaturalną energię bijącą od tej dwójki, nawiązując jednocześnie do tragicznej natury Mimikyu, który pod swoją szmacianą maską skrywa mrok zdolny obezwładnić każdego, kto odważy się go podejrzeć. Dynamiczna kompozycja z wirującymi wyładowaniami energii i lewitującymi odłamkami oddaje niszczycielską skalę mocy VMAX, przekształcając dziecięce pragnienie akceptacji Mimikyu w potężną broń psychologiczną. Styl artystyczny karty stanowi unikalne połączenie estetyki nowoczesnych, pełnoilustrowanych kart TCG z mrocznym, komiksowym ekspresjonizmem, co nadaje całości wyjątkowego, kolekcjonerskiego charakteru.",
@@ -589,7 +589,7 @@
     },
     {
       "id": 136,
-      "stan": 7,
+      "stan": 0,
       "special": "walentynki",
       "name": "Mew & Mew",
       "description": "Przedstawiam unikalny duet kart, które po złączeniu tworzą pełną panoramę. Projekt zainspirowany wideo z TikToka, wykonany od podstaw z najwyższą dbałością o detale.\nUnikalna konstrukcja: Specjalnie przeprojektowana ramka pozwala artom bezpośrednio łączyć się ze sobą, tworząc spójny obraz.\nSymbolika: Idealny prezent na Walentynki – karty „szukają się” i uzupełniają, symbolizując wyjątkową więź.\nJakość: Najwyższy standard druku, nasycone kolory i detale, które zachwycą każdego kolekcjonera.\nKarty pasują do standardowych albumów i toploaderów. Idealny wybór na prezent dla fana nietuzinkowych projektów!",
@@ -624,7 +624,7 @@
     },
     {
       "id": 138,
-      "stan": 10,
+      "stan": 0,
       "special": "What if",
       "name": "Deadpool's Psyduck EX",
       "description": "Deadpool's Psyduck ex z serii What If to pełna humoru i kontrolowanego chaosu ilustracja, która łączy świat Marvela z jednym z najbardziej nieprzewidywalnych Pokémonów. Scena przedstawia Deadpoola w dynamicznym skoku z Pokéballem w dłoni, któremu towarzyszy zdezorientowany Psyduck, co stanowi idealne nawiązanie do natury tego stworka cierpiącego na chroniczne bóle głowy wyzwalające potężne moce psychiczne. Kompozycja kipi energią dzięki jaskrawym kolorom, komiksowej kresce i detalom takim jak czapka Asha w dłoni antybohatera, co podkreśla prześmiewczy i buntowniczy charakter całego crossoveru. Stylistyka nawiązuje do nowoczesnych kart Full Art, gdzie granica między akcją a komedią zaciera się, oddając hołd zarówno komiksowemu dziedzictwu, jak i specyficznej aurze tajemniczości otaczającej Psyducka.",
@@ -679,5 +679,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "25.02.2026, 14:30:54"
+  "lastUpdate": "25.02.2026, 15:50:47"
 }
