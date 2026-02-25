@@ -638,6 +638,23 @@
         "/images/Deadpools_Psyduck_1.jpg",
         "/images/Deadpools_Psyduck_2.jpg"
       ]
+    },
+    {
+      "id": 138,
+      "stan": 1,
+      "special": "30th",
+      "name": "ddd",
+      "description": "dd",
+      "price": 60,
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "img1": "/images/Deadpools_Psyduck_1.jpg",
+      "img2": "/images/Deadpools_Psyduck_2.jpg",
+      "images": [
+        "/images/Deadpools_Psyduck_1.jpg",
+        "/images/Deadpools_Psyduck_2.jpg"
+      ]
     }
   ],
   "gallery": [
@@ -679,5 +696,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "25.02.2026, 22:33:47"
+  "lastUpdate": "25.02.2026, 23:27:41"
 }
