@@ -641,7 +641,7 @@
     },
     {
       "id": 138,
-      "stan": 1,
+      "stan": 6,
       "special": "30th",
       "name": "Coro Coro Mew",
       "description": "Jescze nie gotowy",
@@ -650,10 +650,10 @@
       "rarity": "Art Repaint",
       "ai": "nie",
       "img1": "/images/CoroMew_1.png",
-      "img2": "/images/CoroMew_1.png",
+      "img2": "/images/CoroMew_2.png",
       "images": [
         "/images/CoroMew_1.png",
-        "/images/CoroMew_1.png"
+        "/images/CoroMew_2.png"
       ]
     }
   ],
@@ -696,5 +696,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "26.02.2026, 13:37:52"
+  "lastUpdate": "26.02.2026, 14:29:51"
 }
