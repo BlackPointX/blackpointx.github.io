@@ -397,44 +397,6 @@
       ]
     },
     {
-      "id": 131,
-      "stan": 0,
-      "name": "Mewtwo EX",
-      "description": "Mewtwo ex autorstwa Devin Elle Kurtz to zachwycająca karta kolekcjonerska o numeracji 027/025, stanowiąca głęboko poruszającą interpretację genezy najpotężniejszego Pokémona na świecie. Ilustracja w mistrzowski sposób ukazuje moment uwięzienia Mewtwo w sterylnym, laboratoryjnym zbiorniku, z licznymi przewodami podłączonymi do jego ciała, co stanowi bezpośrednie nawiązanie do tragicznego lore związanego z eksperymentami na Wyspie New Island. Na pierwszym planie widoczna jest filigranowa, świecąca na różowo sylwetka Mew, która z ciekawością i smutkiem spogląda na swój genetyczny klon, co buduje niesamowite napięcie emocjonalne i podkreśla kontrast między pierwotną czystością a technologicznym cierpieniem. Jako karta typu ex z potężnym 330 HP, dysponuje atakami takimi jak „Mind Sync”, zadającym potężne obrażenia przy odpowiednim wsparciu energii, oraz „Mindstorm Break”, który pozwala na manipulację kartami Stadium, co w połączeniu z oniryczną, kinową kolorystyką tworzy prawdziwe dzieło sztuki typu Special Illustration Rare.",
-      "price": 60,
-      "type": "Devin Elle Kurtz",
-      "rarity": "Custom collab",
-      "ai": "nie",
-      "img1": "/images/Mewtwo_EX_1.jpg",
-      "img2": "/images/Mewtwo_EX_2.jpg",
-      "img3": "/images/Mewtwo_EX_3.jpg",
-      "images": [
-        "/images/Mewtwo_EX_1.jpg",
-        "/images/Mewtwo_EX_2.jpg",
-        "/images/Mewtwo_EX_3.jpg"
-      ]
-    },
-    {
-      "id": 132,
-      "stan": 4,
-      "name": "Mewtwo EX A",
-      "description": "Mewtwo ex autorstwa Devin Elle Kurtz (026/025) to kinowa wizja potęgi typu psychicznego w sercu neonowej metropolii. Ilustracja ukazuje Mewtwo w różowej aurze ponad ulicami, gdzie w tle przemyka Raichu, a w dole widać zaskoczonego kierowcę. Karta dysponuje potężnym 330 HP oraz atakami Mind Sync (90+) i Mindstorm Break (180), który dodatkowo usuwa z gry karty Stadium. To mistrzowskie połączenie cyberpunkowej estetyki z mechaniczną dominacją Mewtwo na polu bitwy.",
-      "price": 60,
-      "type": "Devin Elle Kurtz",
-      "rarity": "Custom collab",
-      "ai": "nie",
-      "img1": "/images/Mewtwo_EX_A_1.jpg",
-      "img2": "/images/Mewtwo_EX_A_2.jpg",
-      "img3": "/images/Mewtwo_EX_A_3.jpg",
-      "img4": "/images/Mewtwo_EX_A_4.jpg",
-      "images": [
-        "/images/Mewtwo_EX_A_1.jpg",
-        "/images/Mewtwo_EX_A_2.jpg",
-        "/images/Mewtwo_EX_A_3.jpg",
-        "/images/Mewtwo_EX_A_4.jpg"
-      ]
-    },
-    {
       "id": 134,
       "stan": 4,
       "special": "What if",
@@ -573,5 +535,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "1.03.2026, 21:22:38"
+  "lastUpdate": "1.03.2026, 21:27:47"
 }
