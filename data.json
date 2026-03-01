@@ -328,7 +328,7 @@
     },
     {
       "id": 121,
-      "stan": 11,
+      "stan": 0,
       "name": "Dragonite EX",
       "description": "Ilustracja emanuje spokojem i majestatem, ukazując Dragonite'a jako opiekuńczego lidera odpoczywającego na antycznych ruinach w towarzystwie swojej przedewolucyjnej rodziny – Dratini oraz Dragonair. Jasna, błękitna kolorystyka nieba idealnie współgra z potężną sylwetką tego Pokémona, który według legend potrafi okrążyć świat w zaledwie 16 godzin, a tutaj pełni rolę mitycznego \"Sky Guardian\" strzegącego spokoju sanktuarium. Kompozycja zachwyca malarskim detalem i głębią tła, nawiązując bezpośrednio do najbardziej prestiżowych kart typu Special Illustration Rare, które celebrują naturalne więzi między gatunkami. To dzieło sztuki łączy w sobie sentyment do pierwszej generacji z nowoczesnym, luksusowym stylem Full Art, podkreślając status Dragonite'a jako najpotężniejszego i najbardziej szlachetnego smoka z regionu Kanto.",
       "price": 60,
@@ -450,7 +450,7 @@
     },
     {
       "id": 128,
-      "stan": 4,
+      "stan": 0,
       "name": "Ditto",
       "description": "Ilustracja przedstawia hipnotyzującą mozaikę uśmiechniętych Ditto w niestandardowych, pastelowych barwach, co stanowi bezpośrednie nawiązanie do jego zdolności \"Transformative Start\" oraz niezwykłej plastyczności genetycznej. Kompozycja oddaje radosny i beztroski charakter tego stworka, jednocześnie przypominając o jego jedynej słabości – trudności w zachowaniu transformacji pod wpływem rozbawienia, o czym wspomina klasyczny lore. Grafika została utrzymana w nowoczesnym stylu pop-artu i wzornictwa pattern-based, co nadaje jej świeży, niemal psychodeliczny wygląd, idealnie pasujący do współczesnych standardów kart typu Full Art. Całość tworzy estetyczny i spójny wizualnie projekt, który z pewnością przyciągnie oko każdego kolekcjonera szukającego nietuzinkowych interpretacji klasyków z regionu Kanto.",
       "price": 60,
@@ -502,8 +502,7 @@
     },
     {
       "id": 131,
-      "stan": 4,
-      "special": "bestseller",
+      "stan": 0,
       "name": "Mewtwo EX",
       "description": "Mewtwo ex autorstwa Devin Elle Kurtz to zachwycająca karta kolekcjonerska o numeracji 027/025, stanowiąca głęboko poruszającą interpretację genezy najpotężniejszego Pokémona na świecie. Ilustracja w mistrzowski sposób ukazuje moment uwięzienia Mewtwo w sterylnym, laboratoryjnym zbiorniku, z licznymi przewodami podłączonymi do jego ciała, co stanowi bezpośrednie nawiązanie do tragicznego lore związanego z eksperymentami na Wyspie New Island. Na pierwszym planie widoczna jest filigranowa, świecąca na różowo sylwetka Mew, która z ciekawością i smutkiem spogląda na swój genetyczny klon, co buduje niesamowite napięcie emocjonalne i podkreśla kontrast między pierwotną czystością a technologicznym cierpieniem. Jako karta typu ex z potężnym 330 HP, dysponuje atakami takimi jak „Mind Sync”, zadającym potężne obrażenia przy odpowiednim wsparciu energii, oraz „Mindstorm Break”, który pozwala na manipulację kartami Stadium, co w połączeniu z oniryczną, kinową kolorystyką tworzy prawdziwe dzieło sztuki typu Special Illustration Rare.",
       "price": 60,
@@ -541,7 +540,7 @@
     },
     {
       "id": 133,
-      "stan": 9,
+      "stan": 0,
       "name": "Gengar & Haunter & Gastly GX",
       "description": "Gengar, Haunter & Gastly to spektakularna karta typu Tag Team, która jednoczy całą linię ewolucyjną najbardziej ikonicznych duchów z regionu Kanto w jednej, spójnej kompozycji. Ilustracja w genialny sposób oddaje psotną i mroczną naturę tych Pokémonów, skupiając wzrok na hipnotyzującym uśmiechu Gengara oraz przenikliwych spojrzeniach Gastly'ego i Hauntera, co idealnie nawiązuje do ich zdolności manipulowania snami i ukrywania się w najgłębszych ciemnościach. Zastosowana paleta barw, zdominowana przez nasycone fiolety i kontrastujące, geometryczne refleksy tła, podkreśla nadnaturalną energię bijącą od tej trójki, sugerując potęgę ich wspólnego ataku Nightmare GX. Styl artystyczny karty czerpie bezpośrednią inspirację z estetyki witrażowej i nowoczesnej mozaiki, gdzie ostre, kanciaste podziały nadają całości unikalną teksturę i niemal trójwymiarową głębię.",
       "price": 60,
@@ -696,5 +695,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "1.03.2026, 19:21:32"
+  "lastUpdate": "1.03.2026, 19:43:07"
 }
