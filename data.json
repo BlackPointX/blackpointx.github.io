@@ -383,24 +383,6 @@
       ]
     },
     {
-      "id": 128,
-      "stan": 0,
-      "name": "Ditto",
-      "description": "Ilustracja przedstawia hipnotyzującą mozaikę uśmiechniętych Ditto w niestandardowych, pastelowych barwach, co stanowi bezpośrednie nawiązanie do jego zdolności \"Transformative Start\" oraz niezwykłej plastyczności genetycznej. Kompozycja oddaje radosny i beztroski charakter tego stworka, jednocześnie przypominając o jego jedynej słabości – trudności w zachowaniu transformacji pod wpływem rozbawienia, o czym wspomina klasyczny lore. Grafika została utrzymana w nowoczesnym stylu pop-artu i wzornictwa pattern-based, co nadaje jej świeży, niemal psychodeliczny wygląd, idealnie pasujący do współczesnych standardów kart typu Full Art. Całość tworzy estetyczny i spójny wizualnie projekt, który z pewnością przyciągnie oko każdego kolekcjonera szukającego nietuzinkowych interpretacji klasyków z regionu Kanto.",
-      "price": 60,
-      "type": "jonvier89",
-      "rarity": "Custom collab",
-      "ai": "nie",
-      "img1": "/images/Ditto_1.jpg",
-      "img2": "/images/Ditto_2.jpg",
-      "img3": "/images/Ditto_3.jpg",
-      "images": [
-        "/images/Ditto_1.jpg",
-        "/images/Ditto_2.jpg",
-        "/images/Ditto_3.jpg"
-      ]
-    },
-    {
       "id": 129,
       "stan": 0,
       "name": "Gyarados VMAX",
@@ -591,5 +573,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "1.03.2026, 21:07:04"
+  "lastUpdate": "1.03.2026, 21:22:38"
 }
