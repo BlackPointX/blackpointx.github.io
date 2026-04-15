@@ -513,9 +513,9 @@
       "id": 140,
       "stan": 6,
       "new": "tak",
-      "special": "What if",
-      "name": "Zakrzywienie Czasoprzestrzeni",
-      "description": "Ilustracja autorstwa Shizurow; karta Zakrzywienie czasoprzestrzeni (124/123) to jedyny polski Secret Rare w historii, wydany w dodatku Diament i Perła: Tajemne Skarby, który szybko zyskał status „graala” wśród kolekcjonerów; ta wersja to autorski redesign w stylistyce Full Art, gdzie ilustracja wypełnia całą kartę, zachowując oryginalny układ i motyw, a jednocześnie wprowadzając nowoczesne ramki i czystszą, bardziej kolekcjonerską estetykę.",
+      "special": "30th",
+      "name": "Charizard",
+      "description": "Ilustracja pierwotnie autorstwa Mitsuhiro Arita, której klasyczna kompozycja Charizarda została tu wykorzystana jako baza; motyw wywodzi się z legendarnego Charizard (Base Set), jednej z najbardziej ikonicznych kart w historii TCG; ta wersja to nowoczesny reinterpret w stylistyce Full Art, gdzie dynamiczna scena została rozszerzona na całą powierzchnię karty, z intensywniejszym ogniem, współczesnym układem i rocznicowym stampem, zachowując charakter oryginału, ale nadając mu świeży, kolekcjonerski wygląd.",
       "price": 60,
       "type": "MCpixAI",
       "rarity": "Art Repaint",
@@ -523,7 +523,7 @@
       "images": []
     },
     {
-      "id": 140,
+      "id": 141,
       "stan": 6,
       "new": "tak",
       "special": "What if",
@@ -536,11 +536,11 @@
       "images": []
     },
     {
-      "id": 140,
+      "id": 142,
       "stan": 6,
       "new": "tak",
       "special": "What if",
-      "name": "Zakrzywienie Czasoprzestrzeni",
+      "name": "Browt",
       "description": "Ilustracja autorstwa Shizurow; karta Zakrzywienie czasoprzestrzeni (124/123) to jedyny polski Secret Rare w historii, wydany w dodatku Diament i Perła: Tajemne Skarby, który szybko zyskał status „graala” wśród kolekcjonerów; ta wersja to autorski redesign w stylistyce Full Art, gdzie ilustracja wypełnia całą kartę, zachowując oryginalny układ i motyw, a jednocześnie wprowadzając nowoczesne ramki i czystszą, bardziej kolekcjonerską estetykę.",
       "price": 60,
       "type": "MCpixAI",
@@ -549,11 +549,11 @@
       "images": []
     },
     {
-      "id": 140,
+      "id": 143,
       "stan": 6,
       "new": "tak",
       "special": "What if",
-      "name": "Zakrzywienie Czasoprzestrzeni",
+      "name": "Pombon",
       "description": "Ilustracja autorstwa Shizurow; karta Zakrzywienie czasoprzestrzeni (124/123) to jedyny polski Secret Rare w historii, wydany w dodatku Diament i Perła: Tajemne Skarby, który szybko zyskał status „graala” wśród kolekcjonerów; ta wersja to autorski redesign w stylistyce Full Art, gdzie ilustracja wypełnia całą kartę, zachowując oryginalny układ i motyw, a jednocześnie wprowadzając nowoczesne ramki i czystszą, bardziej kolekcjonerską estetykę.",
       "price": 60,
       "type": "MCpixAI",
@@ -562,11 +562,11 @@
       "images": []
     },
     {
-      "id": 140,
+      "id": 144,
       "stan": 6,
       "new": "tak",
       "special": "What if",
-      "name": "Zakrzywienie Czasoprzestrzeni",
+      "name": "Gecqua",
       "description": "Ilustracja autorstwa Shizurow; karta Zakrzywienie czasoprzestrzeni (124/123) to jedyny polski Secret Rare w historii, wydany w dodatku Diament i Perła: Tajemne Skarby, który szybko zyskał status „graala” wśród kolekcjonerów; ta wersja to autorski redesign w stylistyce Full Art, gdzie ilustracja wypełnia całą kartę, zachowując oryginalny układ i motyw, a jednocześnie wprowadzając nowoczesne ramki i czystszą, bardziej kolekcjonerską estetykę.",
       "price": 60,
       "type": "MCpixAI",
@@ -614,5 +614,5 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "15.04.2026, 22:05:44"
+  "lastUpdate": "15.04.2026, 22:09:54"
 }
