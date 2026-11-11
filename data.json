@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 146,
-      "stan": 1,
+      "stan": 0,
       "new": "tak",
       "name": "Greninja Test",
       "description": "test",
@@ -98,5 +98,5 @@
   "settings": {
     "tryb_przebudowy": "nie"
   },
-  "lastUpdate": "11.11.2026, 23:53:26"
+  "lastUpdate": "11.11.2026, 23:59:13"
 }
