@@ -21,19 +21,35 @@ async function fetchData() {
     const nonce = Math.random().toString(36).substring(7);
     const timestamp = Date.now();
 
-    // 1. Pobierz DANE ZBIORCZE (get_init_data)
-    console.log('📦 Pobieranie danych (Produkty + Rabaty + Galeria)...');
-    // Używamy get_init_data aby pobrać wszystko jednym strzałem
-    const initUrl = `${GOOGLE_SCRIPT_URL}?action=get_init_data&nonce=${nonce}&t=${timestamp}`;
-    const initRes = await fetch(initUrl, {
-        headers: { 'Cache-Control': 'no-cache' }
-    });
-    if (!initRes.ok) throw new Error(`HTTP Error Init Data: ${initRes.status}`);
-    const initData = await initRes.json();
+    // 1. Pobierz DANE ZBIORCZE
+    // Najpierw nowa akcja panelu admina (pub_init: produkty bez ukrytych + zakładki + ustawienia).
+    // Jeśli skrypt Google nie ma jeszcze panelu, wracamy do starej akcji get_init_data.
+    console.log('📦 Pobieranie danych (Produkty + Rabaty + Galeria + Zakładki)...');
+    const getJson = async (action) => {
+      const url = `${GOOGLE_SCRIPT_URL}?action=${action}&nonce=${nonce}&t=${timestamp}`;
+      const res = await fetch(url, { headers: { 'Cache-Control': 'no-cache' } });
+      if (!res.ok) throw new Error(`HTTP Error ${action}: ${res.status}`);
+      return res.json();
+    };
 
-    const productsData = initData.products || [];
+    let initData = null;
+    try {
+      const v2 = await getJson('pub_init');
+      if (v2 && !Array.isArray(v2) && Array.isArray(v2.products)) {
+        initData = v2;
+        console.log('✅ Użyto pub_init (panel admina).');
+      }
+    } catch (e) {
+      console.log('ℹ️ pub_init niedostępne, używam get_init_data.');
+    }
+    if (!initData) initData = await getJson('get_init_data');
+
+    const isYes = (v) => ['tak', 'yes', 'true', '1', 'x'].includes(String(v ?? '').trim().toLowerCase()) || v === true;
+    const productsData = (initData.products || []).filter((p) => !isYes(p.ukryty) && !isYes(p.hidden));
     const discountsData = initData.discounts || [];
-    const galleryData = initData.gallery || []; // Nowe pole
+    const galleryData = initData.gallery || [];
+    const tabsData = Array.isArray(initData.tabs) ? initData.tabs : null;
+    const settingsData = (initData.settings && typeof initData.settings === 'object') ? initData.settings : null;
 
     // 2. Przetwórz dane (Logika Promo po stronie Builda)
     let activePromo = {
@@ -94,6 +110,8 @@ async function fetchData() {
         products: Array.isArray(productsData) ? productsData : [],
         gallery: Array.isArray(galleryData) ? galleryData : [],
         promo: activePromo,
+        ...(tabsData ? { tabs: tabsData } : {}),
+        ...(settingsData ? { settings: settingsData } : {}),
         lastUpdate: new Date().toLocaleString('pl-PL')
     };
 
