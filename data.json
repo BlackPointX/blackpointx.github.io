@@ -1,5 +1,23 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 146,
+      "stan": 1,
+      "new": "tak",
+      "name": "Greninja Test",
+      "description": "test",
+      "price": 1,
+      "type": "MCpixAI",
+      "ai": "tak",
+      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794441126/ndcjpibjv9t2zoieaize.jpg",
+      "reveal": 80,
+      "tekstura_cena": 2,
+      "tekstura_zdjecia": "https://res.cloudinary.com/dkghycylz/image/upload/v1794441150/atwueslo1uibvqajigvk.jpg",
+      "images": [
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794441126/ndcjpibjv9t2zoieaize.jpg"
+      ]
+    }
+  ],
   "gallery": [
     {
       "ID": 1,
@@ -77,6 +95,8 @@
       "osobna": "nie"
     }
   ],
-  "settings": {},
-  "lastUpdate": "11.11.2026, 23:52:02"
+  "settings": {
+    "tryb_przebudowy": "nie"
+  },
+  "lastUpdate": "11.11.2026, 23:53:09"
 }
