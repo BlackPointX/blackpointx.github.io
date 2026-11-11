@@ -462,7 +462,7 @@
       ]
     },
     {
-      "id": 138,
+      "id": 145,
       "stan": 2,
       "special": "What if",
       "name": "Deadpool's Psyduck EX",
@@ -614,5 +614,40 @@
     "catalogMultiplier": 0.7,
     "customMultiplier": 0.8
   },
-  "lastUpdate": "11.11.2026, 21:46:03"
+  "tabs": [
+    {
+      "id": "projekty",
+      "nazwa": "Projekty",
+      "tryb": "wszystkie",
+      "ikona": "Layers",
+      "komunikat": "",
+      "widoczna": "tak"
+    },
+    {
+      "id": "preorder",
+      "nazwa": "Preorder",
+      "tryb": "preorder",
+      "ikona": "Clock",
+      "komunikat": "",
+      "widoczna": "tak"
+    },
+    {
+      "id": "30th",
+      "nazwa": "30th",
+      "tryb": "wybrane",
+      "ikona": "./images/30th.png",
+      "komunikat": "Karty z okazji 30-lecia już wkrótce!",
+      "widoczna": "tak"
+    },
+    {
+      "id": "nowosci",
+      "nazwa": "Nowości",
+      "tryb": "nowosci",
+      "ikona": "Sparkles",
+      "komunikat": "Brak nowości w tym momencie!",
+      "widoczna": "tak"
+    }
+  ],
+  "settings": {},
+  "lastUpdate": "11.11.2026, 22:50:52"
 }
