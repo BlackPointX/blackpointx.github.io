@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# Kilka zmian z panelu naraz: jedna synchronizacja trwa, najnowsza czeka (starsze oczekujace sa pomijane)
+concurrency:
+  group: data-sync
+  cancel-in-progress: false
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
@@ -45,6 +50,9 @@ jobs:
             echo "✅ Brak zmian w cenach/stanach."
           else
             git commit -m "🤖 Auto-update: data.json"
-            git push origin main
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin main && break
+              sleep 5
+            done
             echo "🚀 Zaktualizowano data.json na main"
           fi
