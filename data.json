@@ -84,64 +84,10 @@
       "komunikat": "Brak nowości w tym momencie!",
       "widoczna": "tak",
       "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka-2",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka-3",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka-4",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka-5",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
-    },
-    {
-      "id": "nowa-zakladka-6",
-      "nazwa": "Nowa zakładka",
-      "tryb": "wybrane",
-      "ikona": "Star",
-      "komunikat": "",
-      "widoczna": "tak",
-      "osobna": "nie"
     }
   ],
   "settings": {
     "tryb_przebudowy": "tak"
   },
-  "lastUpdate": "12.11.2026, 01:34:05"
+  "lastUpdate": "12.11.2026, 01:34:53"
 }
