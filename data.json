@@ -84,10 +84,19 @@
       "komunikat": "Brak nowości w tym momencie!",
       "widoczna": "tak",
       "osobna": "nie"
+    },
+    {
+      "id": "toploadery",
+      "nazwa": "Toploadery",
+      "tryb": "wybrane",
+      "ikona": "Ghost",
+      "komunikat": "Jescze nie dodano",
+      "widoczna": "tak",
+      "osobna": "tak"
     }
   ],
   "settings": {
     "tryb_przebudowy": "tak"
   },
-  "lastUpdate": "12.11.2026, 01:34:53"
+  "lastUpdate": "12.11.2026, 01:35:35"
 }
