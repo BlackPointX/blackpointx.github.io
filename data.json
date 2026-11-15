@@ -96,7 +96,11 @@
     }
   ],
   "settings": {
-    "tryb_przebudowy": "nie"
+    "tryb_przebudowy": "nie",
+    "cena_custom": 120,
+    "cena_slab": 50,
+    "cena_kopia": 40,
+    "cena_toploader_custom": 15
   },
-  "lastUpdate": "15.11.2026, 14:36:49"
+  "lastUpdate": "15.11.2026, 15:22:20"
 }
