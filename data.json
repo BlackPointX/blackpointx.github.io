@@ -27,6 +27,7 @@
       "ai": "nie",
       "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923339/towgzax7qow5y3drjnez.jpg",
       "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923341/xwhlwfuhrw6pkzpooitf.jpg",
+      "kadrowanie": "{\"https://res.cloudinary.com/dkghycylz/image/upload/v1794923339/towgzax7qow5y3drjnez.jpg\":[38.8,50,1],\"https://res.cloudinary.com/dkghycylz/image/upload/v1794923341/xwhlwfuhrw6pkzpooitf.jpg\":[51.8,50,1]}",
       "images": [
         "https://res.cloudinary.com/dkghycylz/image/upload/v1794923339/towgzax7qow5y3drjnez.jpg",
         "https://res.cloudinary.com/dkghycylz/image/upload/v1794923341/xwhlwfuhrw6pkzpooitf.jpg"
@@ -202,5 +203,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 17:34:14"
+  "lastUpdate": "17.11.2026, 17:34:33"
 }
