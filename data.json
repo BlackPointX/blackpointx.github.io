@@ -8,9 +8,10 @@
       "price": 60,
       "type": "MCpixAI",
       "rarity": "Custom art",
-      "ai": "tak",
+      "ai": "nie",
       "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923588/qcl32tsngacbocmrppuo.jpg",
       "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923589/czeqqvljnn7zdviotfrk.jpg",
+      "kadrowanie": "{\"https://res.cloudinary.com/dkghycylz/image/upload/v1794923588/qcl32tsngacbocmrppuo.jpg\":[38.3,50,1],\"https://res.cloudinary.com/dkghycylz/image/upload/v1794923589/czeqqvljnn7zdviotfrk.jpg\":[59,50,1]}",
       "images": [
         "https://res.cloudinary.com/dkghycylz/image/upload/v1794923588/qcl32tsngacbocmrppuo.jpg",
         "https://res.cloudinary.com/dkghycylz/image/upload/v1794923589/czeqqvljnn7zdviotfrk.jpg"
@@ -203,5 +204,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 17:34:50"
+  "lastUpdate": "17.11.2026, 17:35:10"
 }
