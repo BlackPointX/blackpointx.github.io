@@ -20,19 +20,17 @@
     },
     {
       "id": 146,
-      "stan": 0,
+      "stan": 6,
       "new": "tak",
-      "name": "Greninja Test",
-      "description": "test",
-      "price": 1,
-      "type": "MCpixAI",
-      "ai": "tak",
-      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794441126/ndcjpibjv9t2zoieaize.jpg",
-      "reveal": 80,
-      "tekstura_cena": 2,
-      "tekstura_zdjecia": "https://res.cloudinary.com/dkghycylz/image/upload/v1794441150/atwueslo1uibvqajigvk.jpg",
+      "name": "Greninja EX",
+      "description": "Greninja w skoku nad zamglonym, bambusowym lasem. Chłodna paleta i dużo przestrzeni nadają karcie spokojny, kinowy charakter.\n\nNieoficjalny projekt fanowski, przeznaczony do kolekcjonowania i ekspozycji. Nie jest produktem Pokémon TCG i nie jest powiązany z The Pokémon Company, Nintendo ani Creatures Inc. Nie nadaje się do oficjalnej gry.",
+      "price": 60,
+      "ai": "nie",
+      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923370/bgqpylbbqpz7luokkapv.jpg",
+      "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923372/zolzjbljs1uigsvflpst.jpg",
       "images": [
-        "https://res.cloudinary.com/dkghycylz/image/upload/v1794441126/ndcjpibjv9t2zoieaize.jpg"
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923370/bgqpylbbqpz7luokkapv.jpg",
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923372/zolzjbljs1uigsvflpst.jpg"
       ]
     }
   ],
@@ -120,5 +118,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 13:49:32"
+  "lastUpdate": "17.11.2026, 13:51:05"
 }
