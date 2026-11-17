@@ -1,22 +1,6 @@
 {
   "products": [
     {
-      "id": 125,
-      "stan": 2,
-      "name": "Giratina",
-      "description": "Giratina z serii Genetic Apex (TCG Pocket Edition) to hipnotyzująca karta typu Illustration Rare, która przenosi kolekcjonera prosto do serca Świata Zniekształceń. Ilustracja w genialny sposób oddaje naturę Giratiny w jej Formie Oryginalnej, szybującej pośród międzywymiarowych szczelin, gdzie według lore czas i przestrzeń ulegają całkowitej deformacji. Mroczna, fioletowa aura tego legendarnego Pokémona kontrastuje z malarską eksplozją barw i świetlistymi smugami energii, co podkreśla jego status jako potężnego władcy wymiaru będącego rewersem naszej rzeczywistości. Dynamika kompozycji, pełna wirujących kształtów i eterycznych detali tła, idealnie koresponduje z typem duchowym oraz unikalną zdolnością \"Levitate\", czyniąc postać niemal namacalną. Styl artystyczny karty stanowi bezpośrednie nawiązanie do nowoczesnej estetyki \"Immersive Rares\", stawiając na pełne zanurzenie w krajobrazie i ekspresywną, cyfrową formę malarstwa, która definiuje nową erę kolekcjonerstwa w wydaniu Pocket.",
-      "price": 60,
-      "type": "Rond",
-      "rarity": "PTCGP",
-      "ai": "nie",
-      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923496/b20a2qvu4plp1mta8a3f.jpg",
-      "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923497/lell5g9upu5kvbeohfix.jpg",
-      "images": [
-        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923496/b20a2qvu4plp1mta8a3f.jpg",
-        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923497/lell5g9upu5kvbeohfix.jpg"
-      ]
-    },
-    {
       "id": 141,
       "stan": 5,
       "new": "tak",
@@ -134,5 +118,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 13:52:03"
+  "lastUpdate": "17.11.2026, 13:53:06"
 }
