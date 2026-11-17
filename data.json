@@ -1,6 +1,22 @@
 {
   "products": [
     {
+      "id": 107,
+      "stan": 3,
+      "name": "Squirtle Squad",
+      "description": "Squirtle Squad to unikalna karta stanowiąca serce limitowanego zestawu poświęconego najbardziej ikonicznym grupom w historii Pokémon. Ilustracja emanuje niesamowitą energią i humorem, uwieczniając legendarny gang w ich charakterystycznych, ciemnych okularach podczas beztroskiego popołudnia wypełnionego jedzeniem pizzy i wodnymi psotami, co doskonale oddaje ich zadziorny charakter znany z klasycznej serii anime. Dynamiczna kompozycja i nasycona, błękitna kolorystyka tła podkreślają radosną naturę tych wodnych stworków, ukazując jednocześnie ich silną więź i lojalność wobec własnej grupy. Styl artystyczny karty czerpie garściami z nowoczesnego pop-artu oraz estetyki sticker-bomb, wykorzystując czyste linie i żywe barwy, aby stworzyć dzieło nawiązujące do kultury miejskiej i nostalgii lat 90.",
+      "price": 60,
+      "type": "MCpixAI",
+      "rarity": "Custom art",
+      "ai": "tak",
+      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923588/qcl32tsngacbocmrppuo.jpg",
+      "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923589/czeqqvljnn7zdviotfrk.jpg",
+      "images": [
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923588/qcl32tsngacbocmrppuo.jpg",
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923589/czeqqvljnn7zdviotfrk.jpg"
+      ]
+    },
+    {
       "id": 141,
       "stan": 5,
       "new": "tak",
@@ -118,5 +134,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 13:53:06"
+  "lastUpdate": "17.11.2026, 13:53:37"
 }
