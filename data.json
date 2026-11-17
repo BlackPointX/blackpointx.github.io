@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": 122,
+      "stan": 6,
+      "name": "Marill",
+      "description": "Marill z serii Genetic Apex (TCG Pocket Edition) to zachwycająca karta typu Illustration Rare, która w niezwykle uroczy sposób celebruje naturę tego „Wodnego Myszy”. Ilustracja ukazuje grupę Marilli beztrosko unoszących się na powierzchni krystalicznie czystego stawu, co stanowi bezpośrednie nawiązanie do lore tego Pokémona, którego futro jest naturalnie natłuszczone, by pełnić funkcję kamizelki ratunkowej. Dynamiczne kręgi na wodzie, jaskrawożółte kwiaty oraz soczysta zieleń liści lilii wodnych budują radosny, letni nastrój, podkreślając przyjazny i łagodny charakter tych stworków, które według legend używają swoich ogonów jako boi. Całość została zaprojektowana w nowoczesnym stylu „Immersive Rare” charakteryzującym się brakiem ramek i pełnym zanurzeniem w przedstawionej scenie, co w połączeniu z miękką, akwarelową kreską artysty Taigi Kayamy tworzy spójną i relaksującą wizję, idealnie wpisującą się w cyfrową estetykę najnowszego wydania Pocket.",
+      "price": 60,
+      "type": "Taiga Kayama",
+      "rarity": "PTCGP",
+      "ai": "nie",
+      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923339/towgzax7qow5y3drjnez.jpg",
+      "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923341/xwhlwfuhrw6pkzpooitf.jpg",
+      "images": [
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923339/towgzax7qow5y3drjnez.jpg",
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923341/xwhlwfuhrw6pkzpooitf.jpg"
+      ]
+    },
+    {
       "id": 141,
       "stan": 5,
       "new": "tak",
@@ -134,5 +150,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 13:53:37"
+  "lastUpdate": "17.11.2026, 13:55:25"
 }
