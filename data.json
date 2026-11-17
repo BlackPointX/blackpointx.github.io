@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "id": 141,
+      "stan": 5,
+      "new": "tak",
+      "special": "What if",
+      "name": "Zakrzywienie Czasoprzestrzeni",
+      "description": "Ilustracja autorstwa Shizurow; karta Zakrzywienie czasoprzestrzeni (124/123) to jedyny polski Secret Rare w historii, wydany w dodatku Diament i Perła: Tajemne Skarby, który szybko zyskał status „graala” wśród kolekcjonerów; ta wersja to autorski redesign w stylistyce Full Art, gdzie ilustracja wypełnia całą kartę, zachowując oryginalny układ i motyw, a jednocześnie wprowadzając nowoczesne ramki i czystszą, bardziej kolekcjonerską estetykę.",
+      "price": 60,
+      "type": "MCpixAI",
+      "rarity": "Art Repaint",
+      "ai": "nie",
+      "img1": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923275/s4tgp2lw1kvu4rcxom34.jpg",
+      "img2": "https://res.cloudinary.com/dkghycylz/image/upload/v1794923276/efy03idnpxcui3jzhjpt.jpg",
+      "images": [
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923275/s4tgp2lw1kvu4rcxom34.jpg",
+        "https://res.cloudinary.com/dkghycylz/image/upload/v1794923276/efy03idnpxcui3jzhjpt.jpg"
+      ]
+    },
+    {
       "id": 146,
       "stan": 0,
       "new": "tak",
@@ -102,5 +120,5 @@
     "cena_kopia": 40,
     "cena_toploader_custom": 15
   },
-  "lastUpdate": "17.11.2026, 08:54:31"
+  "lastUpdate": "17.11.2026, 13:48:38"
 }
