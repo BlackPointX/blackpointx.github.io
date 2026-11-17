@@ -8,36 +8,33 @@
     <meta name="referrer" content="strict-origin-when-cross-origin" />
 
     <title>MCPix Custom (Alfa)</title>
-    
-    <!-- Optymalizacja połączeń -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XK6ZR0HJJP"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    <meta name="description" content="MCPixAI – ręcznie malowane customowe karty Pokémon: gotowe projekty, przedsprzedaż i karty na zamówienie według Twojego pomysłu.">
+    <meta name="theme-color" content="#DC0A2D">
 
-      gtag('config', 'G-XK6ZR0HJJP');
+    <!-- Szybsze połączenie z serwerem zdjęć -->
+    <link rel="preconnect" href="https://res.cloudinary.com">
+    <link rel="preconnect" href="https://wsrv.nl">
+
+    <!-- Dane sklepu pobierane od razu, równolegle z resztą strony -->
+    <script>
+      window.__mcpData = fetch('./data.json?t=' + Date.now()).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; });
     </script>
+
+    <!-- Google Analytics ładuje się dopiero po zgodzie w pasku cookies (services/analytics.ts) -->
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%232B292C'/><path d='M50 0 A50 50 0 0 1 100 50 L0 50 A50 50 0 0 1 50 0' fill='%23DC0A2D'/><path d='M0 50 L100 50 A50 50 0 0 1 50 100 A50 50 0 0 1 0 50' fill='white'/><rect x='0' y='42' width='100' height='16' fill='%232B292C'/><circle cx='50' cy='50' r='18' fill='white' stroke='%232B292C' stroke-width='6'/></svg>">
 
-    <!-- STYLE I CZCIONKI -->
-    <!-- Rajdhani & Roboto -->
-    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <!-- Czcionki są wbudowane w stronę (bez Google Fonts) – index.tsx -->
     <style>
       body {
         background-color: #2B292C;
       }
     </style>
-  <script type="module" crossorigin src="./assets/main-CsFnAlaD.js"></script>
-  <link rel="modulepreload" crossorigin href="./assets/index-GXkFTGlr.js">
-  <link rel="stylesheet" crossorigin href="./assets/index-pqjAR31P.css">
+  <script type="module" crossorigin src="./assets/main-BgsfuFWs.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/index-nHYokkL7.js">
+  <link rel="stylesheet" crossorigin href="./assets/index-CUy2dALJ.css">
+  <link rel="stylesheet" crossorigin href="./assets/main-BY5MNlls.css">
 </head>
   <body>
     <div id="root"></div>
